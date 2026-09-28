@@ -8,7 +8,7 @@ and the sacred postpartum season.
 
 - Founder: Darlene Johnson
 - Areas served: South King County and Pierce County, Washington
-- Website: www.wombandrootbirth.com (built on Squarespace)
+- Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
 
 ## Who we serve
@@ -55,7 +55,7 @@ Email is always welcome for those who prefer to write.
 - **Colors:** terracotta, blush, sage, cream
   - Suggested starting shades (match these to the website's exact colors):
     terracotta `#C0694E` · blush `#E8C4B8` · sage `#9CAF88` · cream `#F7F1E8`
-- **Fonts (suggested, all available in Squarespace):**
+- **Fonts (suggested, for flyers, Canva designs, and newsletters):**
   - Headings: *Cormorant Garamond*, an elegant, soft serif that feels timeless and sacred
   - Body text: *Lato*, a warm, easy-to-read sans serif
 - **Logo:** see website

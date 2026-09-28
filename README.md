@@ -6,7 +6,20 @@ our website pages, brand voice, social media ideas, and email templates.
 ## What's inside
 
 - `brand/` — who we are, how we speak, and how we look
-- More folders will be added as we grow (website, emails, social content)
+- `marketing-plan/` — weekly marketing lists and the discovery call invitation
+- `newsletters/` — one monthly newsletter per file
+- `organizer/` — the agency notebook (shared memory) and weekly plans
+
+## Our helpers (agents)
+
+These live in `.claude/agents/`. Ask for them by name:
+
+- **Client Finder** — "Make my weekly marketing list." Finds the best routes to ideal clients
+  and referral partners, to fill Darlene's and her doulas' schedules.
+- **Newsletter Writer** — "Write my monthly newsletter." Uplifting feminine energy, wellness
+  over 40, and a small pregnancy and postpartum corner.
+- **Agency Assistant** — "Plan my week." Keeps Darlene organized, looks ahead to the seasons,
+  and suggests the next offering and social posts.
 
 ## Our heart
 
