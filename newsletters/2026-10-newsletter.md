@@ -1,6 +1,7 @@
 # October 2026 Newsletter — *The Season of Rooting*
 
-*First draft for Darlene's feedback. Copy and paste into your email tool.*
+*First draft for Darlene's feedback. Each section below matches a section of your Canva
+template. See `newsletters/canva-newsletter-guide.md` for how to lay it out and send it.*
 
 ---
 
@@ -119,10 +120,20 @@ South King County & Pierce County, Washington
 
 ---
 
+### 📷 Photos for Canva
+
+1. Header: autumn leaves or tree roots, soft and warm
+2. Letter: you outdoors among autumn leaves, or holding a warm cup of tea
+3. Practice: hands resting on a belly or heart
+4. Wellness over 40: a woman over 40 smiling in soft light, or autumn fruit on wood
+5. Pregnancy & postpartum: a steaming bowl of soup, or cozy socks and a blanket
+6. From our circle: belly binding cloths, folded neatly
+
 ### ✅ For Darlene: fill in or check before sending
 
 - [ ] Add your discovery call link
 - [ ] Add agency news in "From our circle"
 - [ ] Confirm the Postpartum Support International number (1-800-944-4773)
-- [ ] Choose photos for the 2–3 photo spots
+- [ ] Choose photos from the list above (your own photos, or Canva's free photo library)
+- [ ] Build it in Canva using `newsletters/canva-newsletter-guide.md`
 - [ ] Decide whether to include the pregnancy loss note this year (it can be tender for some readers)

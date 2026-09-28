@@ -53,7 +53,8 @@ Email is always welcome for those who prefer to write.
 ## Look & feel
 
 - **Colors:** terracotta, blush, sage, cream
-  - Suggested starting shades (match these to the website's exact colors):
+  - Suggested starting shades. To confirm the website's exact colors, look in Squarespace under
+    Design → Site Styles → Colors (viewing only, no changes):
     terracotta `#C0694E` · blush `#E8C4B8` · sage `#9CAF88` · cream `#F7F1E8`
 - **Fonts (suggested, for flyers, Canva designs, and newsletters):**
   - Headings: *Cormorant Garamond*, an elegant, soft serif that feels timeless and sacred

@@ -1,13 +1,14 @@
 # Womb and Root Birthing Agency — Marketing
 
 This is the home for all marketing materials for **Womb and Root Birthing Agency**:
-our website pages, brand voice, social media ideas, and email templates.
+brand voice, client outreach, social media, the monthly newsletter, and staying organized.
+(The website is complete, so it's not part of this project for now.)
 
 ## What's inside
 
 - `brand/` — who we are, how we speak, and how we look
 - `marketing-plan/` — weekly marketing lists and the discovery call invitation
-- `newsletters/` — one monthly newsletter per file
+- `newsletters/` — one monthly newsletter per file, plus the Canva template guide
 - `organizer/` — the agency notebook (shared memory) and weekly plans
 
 ## Our helpers (agents)
@@ -20,6 +21,12 @@ These live in `.claude/agents/`. Ask for them by name:
   over 40, and a small pregnancy and postpartum corner.
 - **Agency Assistant** — "Plan my week." Keeps Darlene organized, looks ahead to the seasons,
   and suggests the next offering and social posts.
+
+## Pasting into Google Docs
+
+These files use simple marks like `#` for headings and `**` for bold. To keep the formatting
+when you paste into Google Docs, first turn on **Tools → Preferences → Enable Markdown**.
+Then use **Edit → Paste from Markdown** instead of a regular paste.
 
 ## Our heart
 

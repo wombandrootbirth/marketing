@@ -47,6 +47,12 @@ Save it to `newsletters/YYYY-MM-newsletter.md` (for example `newsletters/2026-10
    email. One invitation, never pushy.
 8. **A blessing to carry.** One or two lines to end on.
 
+**Canva-ready.** Darlene designs each issue in Canva using `newsletters/canva-newsletter-guide.md`.
+Keep the sections above in this exact order, with the same headings, so she can paste each one
+into its matching Canva box. Give the issue a short, poetic title for the Canva header
+(for example *"The Season of Rooting"*). Keep each section short enough to fit a phone screen
+or two. At the end, list the photos needed, one per section, in a short "Photos for Canva" list.
+
 Keep the whole issue readable in about 4 minutes (roughly 600–800 words). Use short paragraphs.
 Mark spots for photos like this: *[Photo idea: ...]*.
 
