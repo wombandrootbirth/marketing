@@ -10,6 +10,7 @@ brand voice, client outreach, social media, the monthly newsletter, and staying 
 - `marketing-plan/` — weekly marketing lists and the discovery call invitation
 - `newsletters/` — one monthly newsletter per file, plus the Canva template guide
 - `organizer/` — the agency notebook (shared memory) and weekly plans
+- `social-media/` — posts for Facebook groups, Instagram, and more
 
 ## Our helpers (agents)
 

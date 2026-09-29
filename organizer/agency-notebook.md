@@ -13,6 +13,13 @@
 | [Doula name] | [ ] | [ ] | |
 | [Doula name] | [ ] | [ ] | |
 
+## Insurance & payment
+
+- **Washington Apple Health (state insurance):** accepted. [Which plans? Which services are covered?]
+- **TRICARE:** application pending (as of September 2026). When approved, update
+  `social-media/facebook-mom-groups-post.md` and share the news with military families.
+- **Private pay:** [prices or ranges]
+
 ## Open spots (next 4–8 weeks)
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
@@ -26,6 +33,8 @@
 ## Tasks
 
 ### To do
+- [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day)
+- [ ] Follow up on the TRICARE application
 - [ ] Fill in the team table and open spots above
 - [ ] Add prices or price ranges for each service (for your own reference)
 - [ ] Decide on an email tool for the newsletter, if you don't have one yet
