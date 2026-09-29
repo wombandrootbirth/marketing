@@ -4,6 +4,8 @@ This is the home for all marketing materials for **Womb and Root Birthing Agency
 brand voice, client outreach, social media, the monthly newsletter, and staying organized.
 (The website is complete, so it's not part of this project for now.)
 
+**New here? Open [`START-HERE.md`](START-HERE.md) first.** 🌿
+
 ## What's inside
 
 - `brand/` — who we are, how we speak, and how we look
