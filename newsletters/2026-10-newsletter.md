@@ -1,7 +1,7 @@
 # October 2026 Newsletter — *The Season of Rooting*
 
-*First draft for Darlene's feedback. Each section below matches a section of your Canva
-template. See `newsletters/canva-newsletter-guide.md` for how to lay it out and send it.*
+*First draft for Darlene's feedback. Build and send it in Flodesk. See
+`newsletters/2026-10-flodesk-build.md` for where each section goes.*
 
 ---
 
@@ -120,7 +120,7 @@ South King County & Pierce County, Washington
 
 ---
 
-### 📷 Photos for Canva
+### 📷 Photos
 
 1. Header: autumn leaves or tree roots, soft and warm
 2. Letter: you outdoors among autumn leaves, or holding a warm cup of tea
@@ -134,6 +134,6 @@ South King County & Pierce County, Washington
 - [ ] Add your discovery call link
 - [ ] Add agency news in "From our circle"
 - [ ] Confirm the Postpartum Support International number (1-800-944-4773)
-- [ ] Choose photos from the list above (your own photos, or Canva's free photo library)
-- [ ] Build it in Canva using `newsletters/canva-newsletter-guide.md`
+- [ ] Choose photos from the list above (your own photos, or Flodesk's free stock photos)
+- [ ] Build it in Flodesk using `newsletters/2026-10-flodesk-build.md`
 - [ ] Decide whether to include the pregnancy loss note this year (it can be tender for some readers)

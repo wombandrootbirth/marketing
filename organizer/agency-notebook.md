@@ -20,6 +20,14 @@
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
 - **Private pay:** [prices or ranges]
 
+## Newsletter (Flodesk)
+
+- **Sent from:** Flodesk, starting from a duplicate of the saved "Newsletter Template" design
+- **List size:** about 3,180 subscribers (September 2026)
+- **Usual results:** 14–20% opens; very few clicks, so use one clear discovery call button
+- **Best send days:** Monday or Wednesday morning (Pacific)
+- **Past clients group:** "Birth and Postpartum Clients" (include them in newsletters)
+
 ## Open spots (next 4–8 weeks)
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
@@ -37,11 +45,10 @@
 - [ ] Follow up on the TRICARE application
 - [ ] Fill in the team table and open spots above
 - [ ] Add prices or price ranges for each service (for your own reference)
-- [ ] Decide on an email tool for the newsletter, if you don't have one yet
 - [ ] Gather 5–10 photos for posts: you, your hands at work, binding cloths, teas, soft home moments
 
 ### Done
-- (finished tasks move here with the date)
+- [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026)
 
 ## Ideas parking lot
 
