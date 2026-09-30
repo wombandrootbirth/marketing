@@ -17,7 +17,12 @@ right decision makers who refer them.
    Never use hustle, urgency, "act now," or cold clinical language.
 2. Read the most recent files in `marketing-plan/weekly-lists/` so you build on last week
    instead of repeating it. Carry forward anything not yet done.
-3. If Darlene hasn't said, ask her (briefly, in one message):
+3. Open `marketing-plan/networking-directory.md`. Choose **at least 3 partners every week**,
+   following its 8-week rotation and skipping anyone already contacted in the notebook's
+   "Partners & referral contacts" table (unless a follow-up is due). If Darlene has saved her own
+   outreach emails in `marketing-plan/outreach-emails/`, use those as the starting message for
+   each partner type. When you find a new, verified partner, add it to the directory with its source.
+4. If Darlene hasn't said, ask her (briefly, in one message):
    - How many open client spots do you and your doulas have in the next 4–8 weeks?
    - Which service do you most want to fill: birth, postpartum (day or overnight),
      womb wellness, or coaching?

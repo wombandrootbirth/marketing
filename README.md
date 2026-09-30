@@ -9,7 +9,7 @@ brand voice, client outreach, social media, the monthly newsletter, and staying 
 ## What's inside
 
 - `brand/` — who we are, how we speak, and how we look
-- `marketing-plan/` — weekly marketing lists and the discovery call invitation
+- `marketing-plan/` — weekly marketing lists, the networking directory, and the discovery call invitation
 - `newsletters/` — one newsletter and one Flodesk build guide per month, plus a Canva guide for graphics
 - `organizer/` — the agency notebook (shared memory) and weekly plans
 - `social-media/` — posts for Facebook groups, Instagram, and more
