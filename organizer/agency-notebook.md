@@ -9,9 +9,10 @@
 
 | Doula | Services they offer | Days / nights available | Notes |
 |---|---|---|---|
-| Darlene Johnson (founder) | [coaching, postpartum, womb wellness…] | [ ] | |
-| [Doula name] | [ ] | [ ] | |
-| [Doula name] | [ ] | [ ] | |
+| Darlene Johnson (founder) | Postpartum doula care, womb wellness, coaching | 3 postpartum families, Oct–Nov 2026 | Currently the only doula |
+
+**Hiring:** no other doulas yet. The employment ad and onboarding paperwork are being finalized.
+Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Insurance & payment
 
@@ -20,12 +21,20 @@
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
 - **Private pay:** [prices or ranges]
 
+## Newsletter (Flodesk)
+
+- **Sent from:** Flodesk, starting from a duplicate of the saved "Newsletter Template" design
+- **List size:** about 3,180 subscribers (September 2026)
+- **Usual results:** 14–20% opens; very few clicks, so use one clear discovery call button
+- **Best send days:** Monday or Wednesday morning (Pacific)
+- **Past clients group:** "Birth and Postpartum Clients" (include them in newsletters)
+
 ## Open spots (next 4–8 weeks)
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
 
-- Postpartum day support: [number of open spots]
-- Postpartum overnight support: [ ]
+- **Postpartum care (day or overnight): 3 families, October–November 2026** (Darlene)
+  [Darlene: 3 in total, or 3 each month?]
 - Birth support: [ ]
 - Womb wellness (steams, binding, encapsulation): [ ]
 - Coaching / Reiki / tuning fork sessions: [ ]
@@ -33,15 +42,17 @@
 ## Tasks
 
 ### To do
-- [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day)
+- [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
+      3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
+- [ ] Finalize the doula employment ad
+- [ ] Finalize onboarding paperwork for new doulas
 - [ ] Follow up on the TRICARE application
-- [ ] Fill in the team table and open spots above
 - [ ] Add prices or price ranges for each service (for your own reference)
-- [ ] Decide on an email tool for the newsletter, if you don't have one yet
 - [ ] Gather 5–10 photos for posts: you, your hands at work, binding cloths, teas, soft home moments
 
 ### Done
-- (finished tasks move here with the date)
+- [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026)
+- [x] Fill in the team table and open spots (Sept 30, 2026)
 
 ## Ideas parking lot
 

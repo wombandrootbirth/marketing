@@ -47,11 +47,17 @@ Save it to `newsletters/YYYY-MM-newsletter.md` (for example `newsletters/2026-10
    email. One invitation, never pushy.
 8. **A blessing to carry.** One or two lines to end on.
 
-**Canva-ready.** Darlene designs each issue in Canva using `newsletters/canva-newsletter-guide.md`.
-Keep the sections above in this exact order, with the same headings, so she can paste each one
-into its matching Canva box. Give the issue a short, poetic title for the Canva header
-(for example *"The Season of Rooting"*). Keep each section short enough to fit a phone screen
-or two. At the end, list the photos needed, one per section, in a short "Photos for Canva" list.
+**Flodesk-ready.** Darlene builds and sends each issue in **Flodesk**, starting from a duplicate of
+her saved "Newsletter Template" design. Keep the sections above in this exact order, with the same
+headings, so she can paste each one into its own Flodesk block. Give the issue a short, poetic title
+for the header image (for example *"The Season of Rooting"*). Keep each section short enough to fit
+a phone screen or two, and use **one** discovery call button (her readers rarely click, so one clear
+invitation works best). At the end, list the photos needed in a short "Photos" list.
+
+Also save a build guide to `newsletters/YYYY-MM-flodesk-build.md`, following the most recent
+one as a pattern: which blocks to use, subject and preview text, who receives it, and a suggested
+send date. Check `organizer/agency-notebook.md` for her Flodesk details. If the Flodesk connector
+is available, you may read past email results to guide the subject line and send day.
 
 Keep the whole issue readable in about 4 minutes (roughly 600–800 words). Use short paragraphs.
 Mark spots for photos like this: *[Photo idea: ...]*.
