@@ -3,7 +3,7 @@
 *Darlene's current menu (October 2026). This is the source of truth for packages and prices.
 Every helper uses it.*
 
-**Nurturing, in-home postpartum care for Pierce County families**
+**Nurturing, in-home postpartum care for South King County and Pierce County families**
 info@wombandrootbirth.com · (206) 409-9747
 
 ---
@@ -83,17 +83,20 @@ Add any of these to a package above, or book them on their own.
 | Nursery & Postpartum Station Organization | $150 |
 | Baby Registry Setup Consultation | $75 |
 | Postpartum Meal Prep (4 hrs) | $275 |
-| Belly Binding | [price] |
-| Placenta Encapsulation | [price] |
-| Tuning Fork & Reiki Meditation | [price] |
+| Belly Binding | shared at discovery call |
+| Placenta Encapsulation | shared at discovery call |
+| Tuning Fork & Reiki Meditation | shared at discovery call |
+
+**Also offered:** lactation support, and in-hospital care after a cesarean birth.
 
 **Bundle & Save:** book 3 or more services together and receive 10% off the combined total.
 
 ---
 
-### For Darlene: to confirm
+### Notes for helpers
 
-- [ ] Prices for belly binding, placenta encapsulation, and Tuning Fork & Reiki Meditation
-      (they're on the brochure, but not yet on this menu)
-- [ ] The menu says "Pierce County families." Add South King County too?
-- [ ] How Apple Health fits with these packages (which ones it can cover, and how)
+- **Service area:** South King County and Pierce County. (The original menu says "Pierce County
+  families." Update it to include South King County.)
+- **Prices never go on the brochure.** Add-on services are listed by name only.
+- **Apple Health:** say "Apple Health (Medicaid) accepted," but never say which packages it covers.
+  Darlene discusses coverage at the discovery call.

@@ -16,7 +16,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Insurance & payment
 
-- **Washington Apple Health (state insurance):** accepted. [Which plans? Which services are covered?]
+- **Washington Apple Health (state insurance):** accepted. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
 - **TRICARE:** application pending (as of September 2026). When approved, update
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
 - **Private pay:** see `brand/services-menu.md` (Day Support $70/hr, Overnight $75/hr, packages from $405)

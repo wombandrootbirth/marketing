@@ -95,7 +95,8 @@ menu with prices at their discovery call.*
 > **Nourished Days · Day Support + Meal Prep**
 > A Day Support visit paired with 4 hours of nourishing, freezer-ready meals.
 >
-> *Hour packages available for extended recovery, multiples & NICU transitions.*
+> *Also available: lactation support, and in-hospital care after a cesarean birth.
+> Hour packages for extended recovery, multiples & NICU transitions.*
 
 ### Middle panel: "A La Carte Services"
 
@@ -130,7 +131,6 @@ menu with prices at their discovery call.*
 
 ## Before printing
 
-- [ ] Confirm the Apple Health wording matches how your services are billed
 - [ ] Scan the QR code to check where it goes
 - [ ] When TRICARE is approved, change "TRICARE coming soon" to "TRICARE accepted"
 - [ ] Print a small batch first (about 50), since details will change as TRICARE and your team grow
