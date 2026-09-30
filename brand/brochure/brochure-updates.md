@@ -129,6 +129,19 @@ menu with prices at their discovery call.*
 
 ---
 
+## Done in Canva (September 30, 2026)
+
+These updates were made in a **copy** of the original brochure, called
+**"Womb & Root Brochure — Postpartum 2026"**
+([view](https://www.canva.com/d/Q54Wa8iIcUo46Uz)). The original "Womb and Root Birthing Services"
+design was left unchanged.
+
+Small differences from the plan above, made so the text fits the design:
+- "Who We Are" ends with "...accessible to all." (Apple Health is listed under Connect With Us.)
+- The logo on the back panel is slightly smaller, to make room for the insurance lines.
+- The "also available" line sits under Nourished Days: "lactation support, in-hospital care after
+  a cesarean birth & hour packages."
+
 ## Before printing
 
 - [ ] Scan the QR code to check where it goes

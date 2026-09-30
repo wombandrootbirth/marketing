@@ -53,8 +53,9 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ### Done
 - [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026)
 - [x] Fill in the team table and open spots (Sept 30, 2026)
+- [x] Update the brochure in Canva for postpartum packages (Sept 30, 2026)
 - [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)
-- [ ] Update the brochure in Canva (see `brand/brochure/brochure-updates.md`), then print a small batch
+- [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 
 ## Ideas parking lot
 
