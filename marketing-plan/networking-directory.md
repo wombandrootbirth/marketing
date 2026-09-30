@@ -4,13 +4,16 @@
 search in October 2026. Contact details can change, so **verify each one before sending.** Each
 entry lists the source where it was found.*
 
+**Your emails:** each partner type has a ready email in `marketing-plan/outreach-emails/`
+(midwives, lactation consultants, chiropractors, and OB-GYN offices).
+
 **How to use it:** follow the rotation below and reach out to **at least 3 partners each week.**
 Log each one in the "Partners & referral contacts" table in `organizer/agency-notebook.md`
 (date contacted and next step), so your helpers can remind you to follow up.
 
 ---
 
-## 8-week rotation (at least 3 a week)
+## 10-week rotation (at least 3 a week)
 
 Your open spots are postpartum families in **October and November**. So weeks 1 and 2 focus on
 partners who meet mothers *right around birth* and can refer quickly.
@@ -25,11 +28,38 @@ partners who meet mothers *right around birth* and can refer quickly.
 | **6** | Source Yoga · Three Trees Yoga · Natural Beginnings Midwifery Care | Prenatal yoga communities |
 | **7** | Perinatal Support Washington · Heidi Koss, LMHC · a perinatal therapist from the directories below | Maternal mental health partners |
 | **8** | Open Arms Perinatal Services · Hummingbird Indigenous Family Services · PEPS | Community doula and parent-support organizations |
+| **9** | Healthpoint (Kent, Auburn, Federal Way) · MultiCare Kent OB/GYN · Franciscan Women's Health, Federal Way · Valley Women's Healthcare, Auburn | South King County OB-GYN offices (ask them to keep brochures on hand) |
+| **10** | Rainier OBGYN · Dedicated Women's Health Specialists · MultiCare OB/GYN Associates · Franciscan Women's Health, Lakewood | Pierce County OB-GYN offices |
 
-After week 8, start again with **follow-ups**: a thank-you, a new flyer, or an invitation to
+After week 10, start again with **follow-ups**: a thank-you, a new flyer, or an invitation to
 meet for tea.
 
 ---
+
+## 🩺 OB-GYN offices
+
+*Use `marketing-plan/outreach-emails/ob-gyn-offices.md`. Ask whether they'll keep brochures on hand.*
+
+**South King County**
+- **Healthpoint**, a community health center with OB-GYN care at its Auburn, Auburn North,
+  Federal Way, and Kent clinics. Many patients use Apple Health.
+  Source: [healthpointchc.org](https://www.healthpointchc.org/health-services/pregnancy-reproductive-health-ob-gynecology)
+- **MultiCare Kent OB/GYN**, 219 State Ave N, Suite 200, Kent · 253-372-7849
+  Source: [multicare.org](https://www.multicare.org/location/multicare-kent-clinic/multicare-kent-ob-gyn/)
+- **Franciscan Women's Health Associates, Federal Way**, 34709 9th Ave S, Suite B-500 · 253-835-8800
+  Source: [Healthline listing](https://care.healthline.com/find-care/specialty/obstetrics-gynecology/wa) (look up & verify)
+- **Valley Women's Healthcare, Auburn**, 1 East Main St, Suite 100, Auburn
+  Source: [valleymed.org](https://www.valleymed.org/find-a-location/v/valley-womens-healthcare-clinic)
+
+**Pierce County**
+- **Rainier OBGYN**, 1901 S. Union Ave, Building B-3010, Tacoma · 253-383-5628
+  Source: [rainierobgyn.com](https://rainierobgyn.com/)
+- **Dedicated Women's Health Specialists**, 3912 10th St SE, Suite 100, Puyallup · 253-840-4444
+  Source: [dedicatedtowomen.com](https://www.dedicatedtowomen.com/services/)
+- **MultiCare OB/GYN Associates**, 3124 S 19th St, Building C, Suite 140, Tacoma · 253-792-6610
+  Source: [multicare.org](https://www.multicare.org/location/multicare-ob-gyn-associates/)
+- **Franciscan Women's Health Associates, Lakewood**, 11311 Bridgeport Way SW, Suite 214 · 253-985-2920
+  Source: [Healthline listing](https://care.healthline.com/find-care/specialty/obstetrics-gynecology/wa/tacoma) (look up & verify)
 
 ## 🌿 Midwives & birth centers
 

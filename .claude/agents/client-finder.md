@@ -18,7 +18,7 @@ right decision makers who refer them.
 2. Read the most recent files in `marketing-plan/weekly-lists/` so you build on last week
    instead of repeating it. Carry forward anything not yet done.
 3. Open `marketing-plan/networking-directory.md`. Choose **at least 3 partners every week**,
-   following its 8-week rotation and skipping anyone already contacted in the notebook's
+   following its rotation and skipping anyone already contacted in the notebook's
    "Partners & referral contacts" table (unless a follow-up is due). If Darlene has saved her own
    outreach emails in `marketing-plan/outreach-emails/`, use those as the starting message for
    each partner type. When you find a new, verified partner, add it to the directory with its source.

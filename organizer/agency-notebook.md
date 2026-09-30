@@ -45,7 +45,6 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
 - [ ] Finalize the doula employment ad
-- [ ] Paste the 4 office outreach emails into Claude, to save in the project (3 of 4 saved: chiropractors, midwives, lactation consultants)
 - [ ] Finalize onboarding paperwork for new doulas
 - [ ] Follow up on the TRICARE application
 - [ ] Add prices or price ranges for each service (for your own reference)
@@ -54,6 +53,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ### Done
 - [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026)
 - [x] Fill in the team table and open spots (Sept 30, 2026)
+- [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)
+- [ ] Create a brochure to leave at OB-GYN and partner offices
 
 ## Ideas parking lot
 
