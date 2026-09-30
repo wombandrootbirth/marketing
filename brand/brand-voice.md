@@ -54,14 +54,19 @@ Email is always welcome for those who prefer to write.
 
 ## Look & feel
 
-- **Colors:** terracotta, blush, sage, cream
-  - Suggested starting shades. To confirm the website's exact colors, look in Squarespace under
-    Design → Site Styles → Colors (viewing only, no changes):
-    terracotta `#C0694E` · blush `#E8C4B8` · sage `#9CAF88` · cream `#F7F1E8`
+- **Colors (measured from Darlene's brochure, October 2026):** sage greens and warm cream
+  - Cream (backgrounds) `#FBF1E8`
+  - Grey-sage (soft shapes, dividers) `#B6B9AE`
+  - Deep sage (shapes, buttons) `#879679`
+  - Logo green (logo, headings, accents) `#6F7D62`
+  - Text: near-black on cream
 - **Fonts (suggested, for flyers, Canva designs, and newsletters):**
   - Headings: *Cormorant Garamond*, an elegant, soft serif that feels timeless and sacred
   - Body text: *Lato*, a warm, easy-to-read sans serif
-- **Logo:** see website
+- **Logo:** a sage-green rooted tree with a blossom, with "WOMB & ROOT" and "Birthing Services" in an arc
+  (see `brand/brochure/`)
+- **Brochure:** current version in `brand/brochure/`, with suggested updates in
+  `brand/brochure/brochure-updates.md`
 
 ## Voices we admire (inspiration, not imitation)
 

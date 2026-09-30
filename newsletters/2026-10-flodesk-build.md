@@ -51,7 +51,8 @@ Delete any old blocks you don't need, and add new ones with the **+** button.
 | 13 | **Footer** | Keep your template's footer. Check your address and social links |
 
 **Tips:**
-- Make the button your terracotta color, so it's the one warm thing the eye lands on.
+- Make the button deep sage (`#879679`) or logo green (`#6F7D62`), so it's the one strong
+  color the eye lands on.
 - Keep text blocks short on phones. If a section feels long, split it into two text blocks
   with a little space between.
 - In Flodesk, highlight text and click the **link icon** to link words.

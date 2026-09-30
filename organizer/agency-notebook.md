@@ -54,7 +54,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026)
 - [x] Fill in the team table and open spots (Sept 30, 2026)
 - [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)
-- [ ] Create a brochure to leave at OB-GYN and partner offices
+- [ ] Update the brochure in Canva (see `brand/brochure/brochure-updates.md`), then print a small batch
 
 ## Ideas parking lot
 
