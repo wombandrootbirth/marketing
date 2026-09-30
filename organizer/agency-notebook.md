@@ -9,7 +9,7 @@
 
 | Doula | Services they offer | Days / nights available | Notes |
 |---|---|---|---|
-| Darlene Johnson (founder) | Postpartum doula care, womb wellness, coaching | 3 postpartum families, Oct–Nov 2026 | Currently the only doula |
+| Darlene Johnson (founder) | Postpartum doula care, womb wellness, coaching | 3 postpartum families per month (Oct & Nov 2026) | Currently the only doula |
 
 **Hiring:** no other doulas yet. The employment ad and onboarding paperwork are being finalized.
 Until the team grows, outreach should fit Darlene's own capacity.
@@ -33,8 +33,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
 
-- **Postpartum care (day or overnight): 3 families, October–November 2026** (Darlene)
-  [Darlene: 3 in total, or 3 each month?]
+- **Postpartum care (day or overnight): 3 families per month** in October and November 2026,
+  6 families in total (Darlene)
 - Birth support: [ ]
 - Womb wellness (steams, binding, encapsulation): [ ]
 - Coaching / Reiki / tuning fork sessions: [ ]
