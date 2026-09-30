@@ -8,7 +8,7 @@
 
 🌿 Hello, mamas of South King & Pierce County 🌿
 
-My name is Darlene, and I'm the founder of Womb and Root Birthing Agency. I wanted to share a
+My name is Darlene, and I'm the founder of Womb & Root Birthing Services. I wanted to share a
 little about postpartum support, because so many mothers don't know it exists until they're
 already running on empty.
 
@@ -30,7 +30,7 @@ me a message, and I'll reach out. 🌸
 
 You were never meant to do this alone.
 
-— Darlene | Womb and Root Birthing Agency | wombandrootbirth.com
+— Darlene | Womb & Root Birthing Services | wombandrootbirth.com
 
 ---
 
@@ -38,7 +38,7 @@ You were never meant to do this alone.
 
 🌿 South King & Pierce County mamas: postpartum support is here for you.
 
-Womb and Root's doulas offer day and overnight postpartum care, lactation support, meal prep,
+Womb & Root offers day and overnight postpartum care, lactation support, meal prep,
 and gentle healing support at home or in the hospital after a cesarean birth.
 
 💛 We accept Washington Apple Health (state insurance).

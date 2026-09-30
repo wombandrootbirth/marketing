@@ -14,7 +14,7 @@ Instagram, Facebook, messages, emails, and flyers.*
 
 > **You were never meant to do this alone.**
 > Whether you are carrying new life or tenderly healing after birth, you deserve to be held.
-> Womb and Root walks beside you with postpartum doula care, womb wellness, and feminine
+> Womb & Root walks beside you with postpartum doula care, womb wellness, and feminine
 > embodiment coaching.
 > Your free discovery call is a gentle, no-pressure space to share your hopes and ask your
 > questions. **Book yours today. We would love to meet you.**
@@ -33,7 +33,7 @@ Instagram, Facebook, messages, emails, and flyers.*
 >
 > Hello [Name],
 >
-> Thank you for writing to Womb and Root. It's truly an honor that you thought of us during
+> Thank you for writing to Womb & Root. It's truly an honor that you thought of us during
 > this sacred season of your life.
 >
 > We support families in South King County and Pierce County with postpartum doula care
@@ -47,7 +47,7 @@ Instagram, Facebook, messages, emails, and flyers.*
 >
 > With warmth,
 > Darlene Johnson
-> Founder, Womb and Root Birthing Agency
+> Founder, Womb & Root Birthing Services
 
 ---
 

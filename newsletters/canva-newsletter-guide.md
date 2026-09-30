@@ -10,7 +10,7 @@ month's newsletter file (for example `newsletters/2026-10-newsletter.md`).*
 1. In Canva, click **Create a design** → **Custom size** → **600 × 2400 px**.
    *(600 pixels wide is the standard width for email, so it reads well on phones. You can make
    the page longer anytime with the "Resize" button or by dragging the bottom edge.)*
-2. Name it **"Womb and Root — Newsletter TEMPLATE."** Never edit this one directly.
+2. Name it **"Womb & Root — Newsletter TEMPLATE."** Never edit this one directly.
    Each month, open it, click **File → Make a copy**, and rename the copy (for example
    "Newsletter — October 2026").
 
@@ -57,7 +57,7 @@ Each section below matches a section in the monthly newsletter file.
 7. **💌 Invitation:** one terracotta button reading **"Book your free discovery call."**
    Select the button, click the **link icon** 🔗, and paste your scheduler link so it's clickable.
 8. **Blessing:** centered, italic, with generous space around it.
-9. **Footer:** Womb and Root · South King & Pierce County, WA · your email · Instagram handle.
+9. **Footer:** Womb & Root · South King & Pierce County, WA · your email · Instagram handle.
 
 **Tip:** leave plenty of breathing room between sections. White space feels calm and spacious,
 just like your brand.

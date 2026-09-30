@@ -1,4 +1,4 @@
-# Womb and Root — Agency Notebook
+# Womb & Root — Agency Notebook
 
 *This is the shared memory for Darlene and her helpers. Edit it anytime. Anything in
 [brackets] is waiting for you to fill in.*
@@ -78,7 +78,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 *A yearly calendar for planning posts, offerings, and newsletter themes. The helpers double-check
 dates before using them, since some move each year.*
 
-| When | Date or moment | Ways Womb and Root could show up |
+| When | Date or moment | Ways Womb & Root could show up |
 |---|---|---|
 | October | Pregnancy & Infant Loss Awareness Month · Remembrance Day Oct 15 · World Menopause Day Oct 18 · Breast Cancer Awareness Month | Tender remembrance post · over-40 wellness care · a candle-lighting moment |
 | November | Military Family Appreciation Month · Veterans Day Nov 11 · Thanksgiving | Reach out to JBLM families · gratitude posts · postpartum meal support |

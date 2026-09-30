@@ -1,6 +1,6 @@
-# Womb and Root Birthing Agency — Marketing
+# Womb & Root Birthing Services — Marketing
 
-This is the home for all marketing materials for **Womb and Root Birthing Agency**:
+This is the home for all marketing materials for **Womb & Root Birthing Services**:
 brand voice, client outreach, social media, the monthly newsletter, and staying organized.
 (The website is complete, so it's not part of this project for now.)
 

@@ -1,4 +1,4 @@
-# Womb and Root Birthing Agency — Brand Voice
+# Womb & Root Birthing Services — Brand Voice
 
 ## Who we are
 
@@ -11,7 +11,7 @@ and the sacred postpartum season.
 - Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
 - Phone: (206) 409-9747 · Email: info@wombandrootbirth.com
-- Name used in partner outreach: *Womb & Root Birthing Services*
+- **Business name:** Womb & Root Birthing Services (use this name everywhere)
 
 ## Who we serve
 
