@@ -10,6 +10,8 @@ and the sacred postpartum season.
 - Areas served: South King County and Pierce County, Washington
 - Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
+- Phone: (206) 409-9747 · Email: info@wombandrootbirth.com
+- Name used in partner outreach: *Womb & Root Birthing Services*
 
 ## Who we serve
 
