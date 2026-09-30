@@ -41,6 +41,9 @@ Hustle · fix · urgent / "act now" · cold clinical language
 
 ## Our offerings
 
+*Packages and prices: see `brand/services-menu.md` (Moonlit Nest, Full Circle Care,
+Steam & Settle, Nourished Days, and Golden Hours / Moonlit Nest hour packages).*
+
 1. **Feminine energy embodiment coaching:** tuning fork and Reiki meditation, plus 1-on-1 coaching
    and digital offerings that help a woman return to confidence in her body and her abilities.
 2. **Postpartum doula care:** support at home, or in the hospital after a cesarean birth.

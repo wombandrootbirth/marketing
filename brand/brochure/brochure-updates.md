@@ -11,8 +11,9 @@ the soft shapes all fit your brand beautifully. Only the words change.
 
 ## What's changing, and why
 
-1. **Postpartum focus.** The birth packages (Rooted Beginnings and Full Bloom Journey) come out.
-   Gentle Afterglow, your postpartum care, becomes the heart of the brochure.
+1. **Postpartum focus, with your new packages.** The old packages (Rooted Beginnings, Full Bloom
+   Journey, and Gentle Afterglow) come out. Your four current core packages go in: Moonlit Nest,
+   Full Circle Care, Steam & Settle, and Nourished Days.
 2. **Apple Health, and TRICARE coming soon,** are added. This matters most for OB-GYN offices and
    Healthpoint.
 3. **Your service area,** Pierce & South King County, is added.
@@ -76,17 +77,25 @@ the soft shapes all fit your brand beautifully. Only the words change.
 
 ## INSIDE
 
-### Left panel: change "Our Services" to "Postpartum Care"
+### Left panel: change "Our Services" to "Postpartum Packages"
 
-> **Gentle Afterglow · Postpartum Care**
-> In-home recovery, newborn care & emotional support for the tender weeks after birth.
+*From the current Services Menu (`brand/services-menu.md`). The descriptions are shortened to fit
+the panel. Prices are left off the brochure, so it stays current longer. Families get the full
+menu with prices at their discovery call.*
+
+> **Moonlit Nest · Overnight Support**
+> 8 hours of overnight newborn care & feeding support, 10pm–6am, so you can actually sleep.
 >
-> • Day support
-> • Overnight support, so you can rest and heal
-> • Lactation & feeding support
-> • Newborn care & gentle guidance
-> • Emotional support & a listening heart
-> • Care in the hospital after a cesarean birth
+> **Full Circle Care · Day + Overnight**
+> Someone in your corner day and night: newborn care, meals, household help & emotional check-ins.
+>
+> **Steam & Settle · Day Support + Yoni Steam**
+> A Day Support visit paired with a restorative postpartum yoni steam.
+>
+> **Nourished Days · Day Support + Meal Prep**
+> A Day Support visit paired with 4 hours of nourishing, freezer-ready meals.
+>
+> *Hour packages available for extended recovery, multiples & NICU transitions.*
 
 ### Middle panel: "A La Carte Services"
 
