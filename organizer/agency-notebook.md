@@ -17,7 +17,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ## Insurance & payment
 
 - **Washington Apple Health (state insurance):** accepted. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
-- **TRICARE:** application pending (as of September 2026). When approved, update
+- **TRICARE West:** application submitted Sept 30, 2026. Follow up the week of Oct 8 if no word
+  (reminder set). When approved, update
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
 - **Private pay:** see `brand/services-menu.md` (Day Support $70/hr, Overnight $75/hr, packages from $405)
 
@@ -46,7 +47,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
 - [ ] Finalize the doula employment ad
 - [ ] Finalize onboarding paperwork for new doulas
-- [ ] Follow up on the TRICARE application
+- [ ] Follow up on the TRICARE West application (submitted Sept 30) if no reply by Oct 8
 - [ ] Add prices or price ranges for each service (for your own reference)
 - [ ] Gather 5–10 photos for posts: you, your hands at work, binding cloths, teas, soft home moments
 
