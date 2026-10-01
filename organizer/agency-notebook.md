@@ -71,6 +71,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 | Name / place | Type | Contacted on | Next step |
 |---|---|---|---|
+| Midwifery Birth Center at St. Joseph (nurse manager) | Hospital birth center | Oct 2026: interviewed for doula position (not selected); thank-you email | Ask to leave brochures; follow up in 1 week if no reply |
 | River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 |
 
 ---
