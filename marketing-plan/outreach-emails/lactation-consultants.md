@@ -19,7 +19,7 @@ Hi [Name],
 
 I'm Darlene Johnson, founder of Womb & Root Birthing Services, an in-home postpartum doula agency serving Pierce and South King County. I'm reaching out because feeding support and postpartum care go hand in hand, and I'd love for our work to complement yours rather than exist separately.
 
-Our doulas provide day and overnight postpartum support — newborn care, recovery help, and steady presence during those early feeding-heavy weeks — and we always want families working with a skilled IBCLC like yourself for the clinical feeding support piece. When our clients need lactation care, you're exactly who I'd want to refer them to.
+We provide day and overnight postpartum support — newborn care, recovery help, and steady presence during those early feeding-heavy weeks — and we always want families working with a skilled IBCLC like yourself for the clinical feeding support piece. When our clients need lactation care, you're exactly who I'd want to refer them to.
 
 I'd love to set up a quick call to learn more about your practice and share what we offer, so we can refer families to each other with confidence. Would you be open to connecting in the next couple of weeks?
 
@@ -30,12 +30,12 @@ Founder, Womb & Root Birthing Services
 
 ---
 
-## Optional: while you're the only doula
+## Optional: once your team grows
 
-You may swap the first words of the second paragraph:
+When you've hired more doulas, you may swap the first words of the second paragraph:
 
-- **Instead of:** "Our doulas provide day and overnight postpartum support..."
-- **Use:** "We provide day and overnight postpartum support..."
+- **Instead of:** "We provide day and overnight postpartum support..."
+- **Use:** "Our doulas provide day and overnight postpartum support..."
 
 ---
 
