@@ -16,7 +16,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Insurance & payment
 
-- **Washington Apple Health (state insurance):** accepted. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
+- **Washington Apple Health (state insurance):** accepted. Darlene is **listed in the Apple Health
+  (WA Medicaid) doula directory**, so members can find her there. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
 - **TRICARE West:** application submitted Sept 30, 2026. Follow up the week of Oct 8 if no word
   (reminder set). When approved, update
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
@@ -60,7 +61,6 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Ideas parking lot
 
-- Look into being listed in Apple Health plans' doula directories, so members can find you directly (research and verify)
 
 *Little seeds to come back to.*
 
