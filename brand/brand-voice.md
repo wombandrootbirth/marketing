@@ -63,13 +63,24 @@ Email is always welcome for those who prefer to write.
   - Deep sage (shapes, buttons) `#879679`
   - Logo green (logo, headings, accents) `#6F7D62`
   - Text: near-black on cream
-- **Fonts (suggested, for flyers, Canva designs, and newsletters):**
-  - Headings: *Cormorant Garamond*, an elegant, soft serif that feels timeless and sacred
-  - Body text: *Lato*, a warm, easy-to-read sans serif
+- **Fonts (from the website, wombandrootbirth.com):**
+  - Headings: *Instrument Serif*, used on the website
+  - Body text: *Newsreader*, used on the website
+  - Both are free Google Fonts. If Canva doesn't have one, choose a similar soft serif.
 - **Logo:** a sage-green rooted tree with a blossom, with "WOMB & ROOT" and "Birthing Services" in an arc
   (see `brand/brochure/`)
 - **Brochure:** current version in `brand/brochure/`, with suggested updates in
   `brand/brochure/brochure-updates.md`
+
+## Website (wombandrootbirth.com, read October 2026)
+
+- **Tagline:** "Postpartum Care, Rooted in Village Support," restoring the village every new mother
+  deserves, one visit at a time.
+- **Book a discovery call:** https://www.wombandrootbirth.com/contact (the Contact page, titled "Book a Postpartum Doula Consultation")
+- **Address:** 1402 Auburn Way North, Suite 346, Auburn, WA 98002
+- **Pages:** Services (/services-sales-page-2) · Shop Add-Ons (/services-store) · Why Yoni Steam
+  (/postpartum-yoni-steam) · About (/about) · Contact (/contact) · FAQ (/faq)
+- The website lists the four core packages with prices and says Medicaid/Apple Health is accepted.
 
 ## Voices we admire (inspiration, not imitation)
 

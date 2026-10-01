@@ -46,7 +46,7 @@ Delete any old blocks you don't need, and add new ones with the **+** button.
 | 8 | **Text** | Paste **"Pregnancy & postpartum corner,"** including the tender note and helpline |
 | 9 | **Image + Text layout** | Belly binding photo (photo idea 6) + paste **"From our circle"** and your agency news |
 | 10 | **Text** | Paste **"Let's begin with a conversation"** (without the bracketed link text) |
-| 11 | **Button** | Text: **Book your free discovery call** · Link: your scheduler link |
+| 11 | **Button** | Text: **Book your free discovery call** · Link: https://www.wombandrootbirth.com/contact |
 | 12 | **Text** (centered, italic) | Paste **"A blessing to carry"** and your sign-off |
 | 13 | **Footer** | Keep your template's footer. Check your address and social links |
 
@@ -95,7 +95,7 @@ opens and clicks in Flodesk and suggest what to try next month.
 
 ### ✅ Before you schedule
 
-- [ ] Scheduler link added to the button
+- [ ] Button links to https://www.wombandrootbirth.com/contact
 - [ ] Agency news added in "From our circle"
 - [ ] Postpartum Support International number confirmed (1-800-944-4773)
 - [ ] Photos chosen (see "Photos" in the newsletter file)

@@ -103,7 +103,7 @@ or open spots for winter births.]*
 Whether you are expecting, healing after birth, or simply longing to feel at home in your body
 again, we would love to walk beside you.
 
-**[Book your free discovery call]** *[link to your scheduler]*
+**[Book your free discovery call](https://www.wombandrootbirth.com/contact)**
 or simply reply to this email. We read every letter.
 
 ---

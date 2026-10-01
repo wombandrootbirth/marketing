@@ -33,12 +33,12 @@ Then replace the shades above in Canva.
 
 | Text | Font | Size |
 |---|---|---|
-| Newsletter title | Cormorant Garamond, italic | 44–52 |
-| Section headings | Cormorant Garamond | 28–32 |
-| Body text | Lato | 15–16 |
-| Small notes and footer | Lato | 12–13 |
+| Newsletter title | Instrument Serif | 44–52 |
+| Section headings | Instrument Serif | 28–32 |
+| Body text | Newsreader | 15–16 |
+| Small notes and footer | Newsreader | 12–13 |
 
-Both fonts are free in Canva. Just type the name into the font box.
+These are your website's fonts. Type the name into Canva's font box. If one isn't there, choose a similar soft serif.
 
 ## Step 3: Build the sections, top to bottom
 
@@ -55,7 +55,7 @@ Each section below matches a section in the monthly newsletter file.
    A cream box with a thin sage border.
 6. **🌸 From our circle:** the service spotlight and agency news, with one photo.
 7. **💌 Invitation:** one deep sage button reading **"Book your free discovery call."**
-   Select the button, click the **link icon** 🔗, and paste your scheduler link so it's clickable.
+   Select the button, click the **link icon** 🔗, and paste https://www.wombandrootbirth.com/contact so it's clickable.
 8. **Blessing:** centered, italic, with generous space around it.
 9. **Footer:** Womb & Root · South King & Pierce County, WA · your email · Instagram handle.
 
