@@ -71,7 +71,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 | Name / place | Type | Contacted on | Next step |
 |---|---|---|---|
-| | | | |
+| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 |
 
 ---
 
