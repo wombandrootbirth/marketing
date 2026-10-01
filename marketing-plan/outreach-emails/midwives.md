@@ -42,9 +42,6 @@ Add one sentence after "Hi [Name],". Check each website first, in case details h
   help."*
 - **Natural Beginnings Midwifery Care:** *"I loved seeing that you offer prenatal yoga
   alongside your midwifery care. It's clear you care for the whole woman."*
-- **Midwifery Birth Center at St. Joseph (Tacoma):** *"I know many of your families head home
-  from the hospital within a day or two, sometimes after a cesarean, and we'd love to be
-  there for them."*
 
 ## After sending
 

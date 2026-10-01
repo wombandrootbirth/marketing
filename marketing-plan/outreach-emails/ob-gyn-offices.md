@@ -1,7 +1,7 @@
 # Outreach Email — OB-GYN Offices
 
-*Darlene's own words. Use for OB-GYN and women's health clinics (rotation weeks 9 and 10 in
-`marketing-plan/networking-directory.md`). Also works well for hospital birth centers.*
+*Darlene's own words. Use for smaller, independent OB-GYN and women's health offices (rotation
+week 8 in `marketing-plan/networking-directory.md`).*
 
 ---
 

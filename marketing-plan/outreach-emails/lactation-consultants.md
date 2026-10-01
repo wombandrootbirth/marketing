@@ -49,9 +49,6 @@ Add one sentence after "Hi [Name],". Check each website first, in case details h
 - **The Birthing Inn lactation support (Tacoma):** *"I noticed The Birthing Inn offers lactation
   support in person and virtually, which is such a gift for new mothers."*
   (Same building as River Lactation, 6002 Westgate Blvd., Suite 120, so one visit covers both.)
-- **Hospital lactation teams** (St. Joseph, MultiCare Auburn, St. Francis): *"I know your team
-  meets families in their very first days, and we'd love to be there for them once they're
-  home."*
 
 ## After sending
 
