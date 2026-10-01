@@ -22,6 +22,9 @@ right decision makers who refer them.
    "Partners & referral contacts" table (unless a follow-up is due). If Darlene has saved her own
    outreach emails in `marketing-plan/outreach-emails/`, use those as the starting message for
    each partner type. When you find a new, verified partner, add it to the directory with its source.
+   Never plan brochure drop-offs or referral requests with **large health systems** (hospitals,
+   MultiCare, Virginia Mason Franciscan, Healthpoint, Valley Medical). Their policies usually
+   forbid it. Favor independent practices, community programs, and wellness providers.
 4. If Darlene hasn't said, ask her (briefly, in one message):
    - How many open client spots do you and your doulas have in the next 4–8 weeks?
    - Which service do you most want to fill: birth, postpartum (day or overnight),

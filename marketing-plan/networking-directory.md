@@ -13,7 +13,18 @@ Log each one in the "Partners & referral contacts" table in `organizer/agency-no
 
 ---
 
-## 10-week rotation (at least 3 a week)
+## What we've learned (October 2026)
+
+**Large health systems usually can't share outside doula materials.** The Midwifery Birth Center
+at St. Joseph has a policy against brochures or cards from outside doulas, and Darlene's own doctor
+at Healthpoint said they can't refer doulas or display brochures. Other large systems (MultiCare,
+Virginia Mason Franciscan Health, Valley Medical) likely have similar rules.
+
+So the rotation now focuses on **independent practices, community programs, and wellness
+providers**, where the people you meet can say yes. Large systems are listed under "Lower
+priority" below. Stay kind and visible with them, but don't ask for brochure space or referrals.
+
+## 8-week rotation (at least 3 a week)
 
 Your open spots are postpartum families in **October and November**. So weeks 1 and 2 focus on
 partners who meet mothers *right around birth* and can refer quickly.
@@ -21,17 +32,26 @@ partners who meet mothers *right around birth* and can refer quickly.
 | Week | Reach out to | Why this week |
 |---|---|---|
 | **1** | The Birthing Inn · River Lactation · Wellspring Midwifery · Family Connects Pierce County | They see new mothers in the first days and weeks, which fits your October spots |
-| **2** | Midwifery Birth Center at St. Joseph · MultiCare Auburn Family Birth Center · St. Francis Family Birth Center | Hospital birth centers, including cesarean families |
+| **2** | Natural Beginnings Midwifery Care · Perinatal Support Washington · Open Arms Perinatal Services | An independent midwife, plus community groups that keep postpartum resource lists |
 | **3** | PhysioStrength Pelvic Health · Dr. Mandi Murtaugh PT · Anchor Physical Therapy | Pelvic floor therapists see postpartum mothers for weeks |
 | **4** | Lumos Chiropractic · Brilliant Life Chiropractic · McAuley Family Chiropractic | Prenatal chiropractors, for mothers due in late fall and winter |
-| **5** | JBLM New Parent Support Program · Tacoma-Pierce County Health Dept. family programs · Mom & Baby Support Group at Good Samaritan | Military and community families (November is Military Family Appreciation Month) |
-| **6** | Source Yoga · Three Trees Yoga · Natural Beginnings Midwifery Care | Prenatal yoga communities |
+| **5** | JBLM New Parent Support Program · Tacoma-Pierce County Health Dept. family programs · Mom & Baby Support Group at Good Samaritan | Military and community families (November is Military Family Appreciation Month). Ask the group facilitator, not the hospital |
+| **6** | Source Yoga · Three Trees Yoga · PEPS | Prenatal yoga and new-parent groups |
 | **7** | Perinatal Support Washington · Heidi Koss, LMHC · a perinatal therapist from the directories below | Maternal mental health partners |
-| **8** | Open Arms Perinatal Services · Hummingbird Indigenous Family Services · PEPS | Community doula and parent-support organizations |
-| **9** | Healthpoint (Kent, Auburn, Federal Way) · MultiCare Kent OB/GYN · Franciscan Women's Health, Federal Way · Valley Women's Healthcare, Auburn | South King County OB-GYN offices (ask them to keep brochures on hand) |
-| **10** | Rainier OBGYN · Dedicated Women's Health Specialists · MultiCare OB/GYN Associates · Franciscan Women's Health, Lakewood | Pierce County OB-GYN offices |
+| **8** | Hummingbird Indigenous Family Services · Rainier OBGYN · Dedicated Women's Health Specialists | Community doula program, plus smaller OB offices. **Ask first** whether they can share community resources |
 
-After week 10, start again with **follow-ups**: a thank-you, a new flyer, or an invitation to
+### Lower priority: large health systems
+
+Policies often prevent these from sharing outside doula materials or referring. Skip them in the
+rotation unless someone there invites you to share.
+
+- Midwifery Birth Center at St. Joseph *(confirmed: no outside doula brochures or cards)*
+- Healthpoint clinics *(confirmed: can't refer doulas or display brochures)*
+- MultiCare Auburn Family Birth Center · St. Francis Family Birth Center
+- MultiCare Kent OB/GYN · MultiCare OB/GYN Associates
+- Franciscan Women's Health Associates (Federal Way and Lakewood) · Valley Women's Healthcare
+
+After week 8, start again with **follow-ups**: a thank-you, a new flyer, or an invitation to
 meet for tea.
 
 ---
@@ -41,7 +61,7 @@ meet for tea.
 *Use `marketing-plan/outreach-emails/ob-gyn-offices.md`. Ask whether they'll keep brochures on hand.*
 
 **South King County**
-- **Healthpoint**, a community health center with OB-GYN care at its Auburn, Auburn North,
+- **Healthpoint** *(policy: can't refer doulas or display brochures)*, a community health center with OB-GYN care at its Auburn, Auburn North,
   Federal Way, and Kent clinics. Many patients use Apple Health.
   Source: [healthpointchc.org](https://www.healthpointchc.org/health-services/pregnancy-reproductive-health-ob-gynecology)
 - **MultiCare Kent OB/GYN**, 219 State Ave N, Suite 200, Kent · 253-372-7849
@@ -82,7 +102,7 @@ meet for tea.
 
 ## 🏥 Hospital birth centers
 
-**Midwifery Birth Center at St. Joseph** (Tacoma)
+**Midwifery Birth Center at St. Joseph** (Tacoma) · *Policy: no outside doula brochures or cards*
 - 1708 South Yakima Avenue, on the St. Joseph Medical Center campus
 - Ask for: the childbirth-education or lactation lead
 - Source: [vmfh.org](https://www.vmfh.org/our-services/pregnancy-childbirth/labor-and-delivery/birth-centers/midwifery-birth-center)

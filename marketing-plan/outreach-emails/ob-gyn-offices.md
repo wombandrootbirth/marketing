@@ -5,6 +5,10 @@
 
 ---
 
+> **Use with smaller, independent offices only.** Large systems such as Healthpoint, MultiCare,
+> and Franciscan usually have policies against outside doula brochures or referrals. If you're
+> unsure, call the front desk first and ask whether they share community resources with patients.
+
 ## Subject line ideas
 
 - Postpartum support resource for your patients
