@@ -1,4 +1,4 @@
-# Womb and Root — Agency Notebook
+# Womb & Root — Agency Notebook
 
 *This is the shared memory for Darlene and her helpers. Edit it anytime. Anything in
 [brackets] is waiting for you to fill in.*
@@ -9,17 +9,17 @@
 
 | Doula | Services they offer | Days / nights available | Notes |
 |---|---|---|---|
-| Darlene Johnson (founder) | Postpartum doula care, womb wellness, coaching | 3 postpartum families, Oct–Nov 2026 | Currently the only doula |
+| Darlene Johnson (founder) | Postpartum doula care, womb wellness, coaching | 3 postpartum families per month (Oct & Nov 2026) | Currently the only doula |
 
 **Hiring:** no other doulas yet. The employment ad and onboarding paperwork are being finalized.
 Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Insurance & payment
 
-- **Washington Apple Health (state insurance):** accepted. [Which plans? Which services are covered?]
+- **Washington Apple Health (state insurance):** accepted. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
 - **TRICARE:** application pending (as of September 2026). When approved, update
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
-- **Private pay:** [prices or ranges]
+- **Private pay:** see `brand/services-menu.md` (Day Support $70/hr, Overnight $75/hr, packages from $405)
 
 ## Newsletter (Flodesk)
 
@@ -33,8 +33,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
 
-- **Postpartum care (day or overnight): 3 families, October–November 2026** (Darlene)
-  [Darlene: 3 in total, or 3 each month?]
+- **Postpartum care (day or overnight): 3 families per month** in October and November 2026,
+  6 families in total (Darlene)
 - Birth support: [ ]
 - Womb wellness (steams, binding, encapsulation): [ ]
 - Coaching / Reiki / tuning fork sessions: [ ]
@@ -53,6 +53,9 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ### Done
 - [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026)
 - [x] Fill in the team table and open spots (Sept 30, 2026)
+- [x] Update the brochure in Canva for postpartum packages (Sept 30, 2026)
+- [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)
+- [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 
 ## Ideas parking lot
 
@@ -77,7 +80,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 *A yearly calendar for planning posts, offerings, and newsletter themes. The helpers double-check
 dates before using them, since some move each year.*
 
-| When | Date or moment | Ways Womb and Root could show up |
+| When | Date or moment | Ways Womb & Root could show up |
 |---|---|---|
 | October | Pregnancy & Infant Loss Awareness Month · Remembrance Day Oct 15 · World Menopause Day Oct 18 · Breast Cancer Awareness Month | Tender remembrance post · over-40 wellness care · a candle-lighting moment |
 | November | Military Family Appreciation Month · Veterans Day Nov 11 · Thanksgiving | Reach out to JBLM families · gratitude posts · postpartum meal support |

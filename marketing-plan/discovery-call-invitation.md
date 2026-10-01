@@ -14,7 +14,7 @@ Instagram, Facebook, messages, emails, and flyers.*
 
 > **You were never meant to do this alone.**
 > Whether you are carrying new life or tenderly healing after birth, you deserve to be held.
-> Womb and Root walks beside you with postpartum doula care, womb wellness, and feminine
+> Womb & Root walks beside you with postpartum doula care, womb wellness, and feminine
 > embodiment coaching.
 > Your free discovery call is a gentle, no-pressure space to share your hopes and ask your
 > questions. **Book yours today. We would love to meet you.**
@@ -24,7 +24,7 @@ Instagram, Facebook, messages, emails, and flyers.*
 > Hello mama, thank you so much for reaching out! 💛 I'd love to hear where you are in your
 > journey and what kind of support you're dreaming of. The easiest way to begin is a free
 > discovery call. It's relaxed, no pressure, and just a chance for us to connect.
-> Here's where you can choose a time: [your scheduler link]
+> Here's where you can choose a time: https://www.wombandrootbirth.com/contact
 > Or, if you prefer, share a little about yourself here and I'll gently guide you. — Darlene
 
 ## Email reply (when someone emails to ask)
@@ -33,7 +33,7 @@ Instagram, Facebook, messages, emails, and flyers.*
 >
 > Hello [Name],
 >
-> Thank you for writing to Womb and Root. It's truly an honor that you thought of us during
+> Thank you for writing to Womb & Root. It's truly an honor that you thought of us during
 > this sacred season of your life.
 >
 > We support families in South King County and Pierce County with postpartum doula care
@@ -42,15 +42,15 @@ Instagram, Facebook, messages, emails, and flyers.*
 > feminine energy embodiment coaching.
 >
 > I'd love to learn more about you. Would you like to book a free discovery call? You can choose
-> a time that feels good here: [your scheduler link]. Or simply reply with a few times that work
+> a time that feels good here: https://www.wombandrootbirth.com/contact. Or simply reply with a few times that work
 > for you.
 >
 > With warmth,
 > Darlene Johnson
-> Founder, Womb and Root Birthing Agency
+> Founder, Womb & Root Birthing Services
 
 ---
 
 **For Darlene: fill in before using**
-- [ ] Your scheduler link
+- [x] Booking link: https://www.wombandrootbirth.com/contact
 - [ ] Your email address, where needed

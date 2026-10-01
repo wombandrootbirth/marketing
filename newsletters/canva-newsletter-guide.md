@@ -10,7 +10,7 @@ month's newsletter file (for example `newsletters/2026-10-newsletter.md`).*
 1. In Canva, click **Create a design** → **Custom size** → **600 × 2400 px**.
    *(600 pixels wide is the standard width for email, so it reads well on phones. You can make
    the page longer anytime with the "Resize" button or by dragging the bottom edge.)*
-2. Name it **"Womb and Root — Newsletter TEMPLATE."** Never edit this one directly.
+2. Name it **"Womb & Root — Newsletter TEMPLATE."** Never edit this one directly.
    Each month, open it, click **File → Make a copy**, and rename the copy (for example
    "Newsletter — October 2026").
 
@@ -21,10 +21,10 @@ one click away.
 
 | Use | Color | Suggested shade |
 |---|---|---|
-| Page background | Cream | `#F7F1E8` |
-| Headings, buttons | Terracotta | `#C0694E` |
-| Section backgrounds, dividers | Blush | `#E8C4B8` |
-| Leaves, icons, small accents | Sage | `#9CAF88` |
+| Page background | Cream | `#FBF1E8` |
+| Headings, buttons | Logo green | `#6F7D62` |
+| Section backgrounds, dividers | Grey-sage | `#B6B9AE` |
+| Soft shapes, small accents | Deep sage | `#879679` |
 | Body text | Deep brown (soft, easier to read than black) | `#4A3B34` |
 
 **Match your exact website colors:** in Squarespace, go to **Design → Site Styles → Colors**
@@ -33,31 +33,31 @@ Then replace the shades above in Canva.
 
 | Text | Font | Size |
 |---|---|---|
-| Newsletter title | Cormorant Garamond, italic | 44–52 |
-| Section headings | Cormorant Garamond | 28–32 |
-| Body text | Lato | 15–16 |
-| Small notes and footer | Lato | 12–13 |
+| Newsletter title | Instrument Serif | 44–52 |
+| Section headings | Instrument Serif | 28–32 |
+| Body text | Newsreader | 15–16 |
+| Small notes and footer | Newsreader | 12–13 |
 
-Both fonts are free in Canva. Just type the name into the font box.
+These are your website's fonts. Type the name into Canva's font box. If one isn't there, choose a similar soft serif.
 
 ## Step 3: Build the sections, top to bottom
 
 Each section below matches a section in the monthly newsletter file.
 
 1. **Header:** your logo centered, then the month's title (for example *"The Season of
-   Rooting"*) in terracotta, with a thin sage line underneath.
+   Rooting"*) in logo green, with a thin sage line underneath.
 2. **Letter from Darlene:** your photo on one side (a circle frame looks lovely), and the
    letter on the other side or below it. End with your name in an elegant script font.
-3. **🌿 Feminine energy practice:** a soft blush box behind the text. Numbered steps.
+3. **🌿 Feminine energy practice:** a soft grey-sage box behind the text. Numbered steps.
    The journal prompt goes in italics at the bottom.
 4. **🍂 Wellness over 40:** a photo spot, then the text. Use sage bullet points.
 5. **🤱 Pregnancy & postpartum corner:** a smaller section to keep it tender and brief.
-   A cream box with a thin terracotta border.
+   A cream box with a thin sage border.
 6. **🌸 From our circle:** the service spotlight and agency news, with one photo.
-7. **💌 Invitation:** one terracotta button reading **"Book your free discovery call."**
-   Select the button, click the **link icon** 🔗, and paste your scheduler link so it's clickable.
+7. **💌 Invitation:** one deep sage button reading **"Book your free discovery call."**
+   Select the button, click the **link icon** 🔗, and paste https://www.wombandrootbirth.com/contact so it's clickable.
 8. **Blessing:** centered, italic, with generous space around it.
-9. **Footer:** Womb and Root · South King & Pierce County, WA · your email · Instagram handle.
+9. **Footer:** Womb & Root · South King & Pierce County, WA · your email · Instagram handle.
 
 **Tip:** leave plenty of breathing room between sections. White space feels calm and spacious,
 just like your brand.

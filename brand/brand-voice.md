@@ -1,4 +1,4 @@
-# Womb and Root Birthing Agency — Brand Voice
+# Womb & Root Birthing Services — Brand Voice
 
 ## Who we are
 
@@ -10,6 +10,8 @@ and the sacred postpartum season.
 - Areas served: South King County and Pierce County, Washington
 - Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
+- Phone: (206) 409-9747 · Email: info@wombandrootbirth.com
+- **Business name:** Womb & Root Birthing Services (use this name everywhere)
 
 ## Who we serve
 
@@ -39,6 +41,9 @@ Hustle · fix · urgent / "act now" · cold clinical language
 
 ## Our offerings
 
+*Packages and prices: see `brand/services-menu.md` (Moonlit Nest, Full Circle Care,
+Steam & Settle, Nourished Days, and Golden Hours / Moonlit Nest hour packages).*
+
 1. **Feminine energy embodiment coaching:** tuning fork and Reiki meditation, plus 1-on-1 coaching
    and digital offerings that help a woman return to confidence in her body and her abilities.
 2. **Postpartum doula care:** support at home, or in the hospital after a cesarean birth.
@@ -52,14 +57,30 @@ Email is always welcome for those who prefer to write.
 
 ## Look & feel
 
-- **Colors:** terracotta, blush, sage, cream
-  - Suggested starting shades. To confirm the website's exact colors, look in Squarespace under
-    Design → Site Styles → Colors (viewing only, no changes):
-    terracotta `#C0694E` · blush `#E8C4B8` · sage `#9CAF88` · cream `#F7F1E8`
-- **Fonts (suggested, for flyers, Canva designs, and newsletters):**
-  - Headings: *Cormorant Garamond*, an elegant, soft serif that feels timeless and sacred
-  - Body text: *Lato*, a warm, easy-to-read sans serif
-- **Logo:** see website
+- **Colors (measured from Darlene's brochure, October 2026):** sage greens and warm cream
+  - Cream (backgrounds) `#FBF1E8`
+  - Grey-sage (soft shapes, dividers) `#B6B9AE`
+  - Deep sage (shapes, buttons) `#879679`
+  - Logo green (logo, headings, accents) `#6F7D62`
+  - Text: near-black on cream
+- **Fonts (from the website, wombandrootbirth.com):**
+  - Headings: *Instrument Serif*, used on the website
+  - Body text: *Newsreader*, used on the website
+  - Both are free Google Fonts. If Canva doesn't have one, choose a similar soft serif.
+- **Logo:** a sage-green rooted tree with a blossom, with "WOMB & ROOT" and "Birthing Services" in an arc
+  (see `brand/brochure/`)
+- **Brochure:** current version in `brand/brochure/`, with suggested updates in
+  `brand/brochure/brochure-updates.md`
+
+## Website (wombandrootbirth.com, read October 2026)
+
+- **Tagline:** "Postpartum Care, Rooted in Village Support," restoring the village every new mother
+  deserves, one visit at a time.
+- **Book a discovery call:** https://www.wombandrootbirth.com/contact (the Contact page, titled "Book a Postpartum Doula Consultation")
+- **Address:** 1402 Auburn Way North, Suite 346, Auburn, WA 98002
+- **Pages:** Services (/services-sales-page-2) · Shop Add-Ons (/services-store) · Why Yoni Steam
+  (/postpartum-yoni-steam) · About (/about) · Contact (/contact) · FAQ (/faq)
+- The website lists the four core packages with prices and says Medicaid/Apple Health is accepted.
 
 ## Voices we admire (inspiration, not imitation)
 

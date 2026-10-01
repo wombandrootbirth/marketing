@@ -75,7 +75,7 @@ birth, with cozy socks, warm drinks, and soups and stews instead of cold foods. 
 beautiful time to prepare: if you're expecting this winter, consider asking loved ones to fill
 your freezer with warm, nourishing meals now.
 
-Our postpartum doulas can help with meal preparation, feeding support, and overnight care, so you
+We can help with meal preparation, feeding support, and overnight care, so you
 can rest and heal. 💛
 
 **A tender note:** October is Pregnancy and Infant Loss Awareness Month. If you are carrying the
@@ -103,7 +103,7 @@ or open spots for winter births.]*
 Whether you are expecting, healing after birth, or simply longing to feel at home in your body
 again, we would love to walk beside you.
 
-**[Book your free discovery call]** *[link to your scheduler]*
+**[Book your free discovery call](https://www.wombandrootbirth.com/contact)**
 or simply reply to this email. We read every letter.
 
 ---
@@ -115,7 +115,7 @@ May you let go with grace.
 And may you always remember: you were never meant to do this alone.* 🍂
 
 With love,
-**Darlene & the Womb and Root family**
+**Darlene and the Womb & Root family**
 South King County & Pierce County, Washington
 
 ---
