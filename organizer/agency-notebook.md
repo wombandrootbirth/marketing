@@ -76,6 +76,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 |---|---|---|---|
 | Midwifery Birth Center at St. Joseph (nurse manager) | Hospital birth center | Oct 2026: interviewed (not selected); thank-you sent and answered warmly | Policy: no brochures or cards from outside doulas. Keep the relationship kind; no further asks |
 | Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
+| Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up around Oct 9 if no reply |
 | River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 |
 
 ---
