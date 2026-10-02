@@ -44,6 +44,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ## Tasks
 
 ### To do
+- [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
+- [ ] Build the October newsletter in Flodesk and schedule it for Wed, Oct 7 (`newsletters/2026-10-flodesk-build.md`)
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
 - [ ] Finalize the doula employment ad
@@ -57,7 +59,6 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [x] Fill in the team table and open spots (Sept 30, 2026)
 - [x] Update the brochure in Canva for postpartum packages (Sept 30, 2026)
 - [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)
-- [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 
 ## Ideas parking lot
 
