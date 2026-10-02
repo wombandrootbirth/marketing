@@ -1,9 +1,13 @@
 # Outreach Email — OB-GYN Offices
 
-*Darlene's own words. Use for OB-GYN and women's health clinics (rotation weeks 9 and 10 in
-`marketing-plan/networking-directory.md`). Also works well for hospital birth centers.*
+*Darlene's own words. Use for smaller, independent OB-GYN and women's health offices (rotation
+week 8 in `marketing-plan/networking-directory.md`).*
 
 ---
+
+> **Use with smaller, independent offices only.** Large systems such as Healthpoint, MultiCare,
+> and Franciscan usually have policies against outside doula brochures or referrals. If you're
+> unsure, call the front desk first and ask whether they share community resources with patients.
 
 ## Subject line ideas
 

@@ -16,8 +16,10 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Insurance & payment
 
-- **Washington Apple Health (state insurance):** accepted. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
-- **TRICARE:** application pending (as of September 2026). When approved, update
+- **Washington Apple Health (state insurance):** accepted. Darlene is **listed in the Apple Health
+  (WA Medicaid) doula directory**, so members can find her there. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
+- **TRICARE West:** application submitted Sept 30, 2026. Follow up the week of Oct 8 if no word
+  (reminder set). When approved, update
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
 - **Private pay:** see `brand/services-menu.md` (Day Support $70/hr, Overnight $75/hr, packages from $405)
 
@@ -46,7 +48,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
 - [ ] Finalize the doula employment ad
 - [ ] Finalize onboarding paperwork for new doulas
-- [ ] Follow up on the TRICARE application
+- [ ] Follow up on the TRICARE West application (submitted Sept 30) if no reply by Oct 8
 - [ ] Add prices or price ranges for each service (for your own reference)
 - [ ] Gather 5–10 photos for posts: you, your hands at work, binding cloths, teas, soft home moments
 
@@ -58,6 +60,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 
 ## Ideas parking lot
+
 
 *Little seeds to come back to.*
 
@@ -71,7 +74,9 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 | Name / place | Type | Contacted on | Next step |
 |---|---|---|---|
-| | | | |
+| Midwifery Birth Center at St. Joseph (nurse manager) | Hospital birth center | Oct 2026: interviewed (not selected); thank-you sent and answered warmly | Policy: no brochures or cards from outside doulas. Keep the relationship kind; no further asks |
+| Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
+| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 |
 
 ---
 
