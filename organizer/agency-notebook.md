@@ -44,6 +44,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ## Tasks
 
 ### To do
+- [ ] **Weekend:** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
 - [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 - [ ] Build the October newsletter in Flodesk and schedule it for Wed, Oct 7 (`newsletters/2026-10-flodesk-build.md`)
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
