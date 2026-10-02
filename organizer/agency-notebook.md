@@ -63,9 +63,16 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Ideas parking lot
 
-
 *Little seeds to come back to.*
 
+- 🌸 **Mobile postpartum pampering, using Darlene's 23 years as a licensed esthetician** (added Oct 2026).
+  Ideas: a postpartum facial ("Glow & Restore"), a facial add-on during Day Support visits, a
+  "Mama Pamper" visit (facial, scalp massage, hand or foot care), gift certificates, and pampering
+  at Nesting Parties or blessingways. Private pay.
+  *Before starting:* check WA Department of Licensing rules for esthetics in clients' homes
+  (shop or mobile license), confirm liability insurance covers doula and esthetics work, and
+  set a pregnancy- and breastfeeding-safe product policy. Start small with one add-on, after the
+  brochure, newsletter, and week 1 outreach are finished.
 - A "Fourth Trimester Circle" for new mothers (monthly, in person or online)
 - Postpartum gift cards for baby showers and the holidays
 - A digital guided Reiki / tuning fork meditation for pregnancy or postpartum rest
