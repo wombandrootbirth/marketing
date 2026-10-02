@@ -76,6 +76,8 @@ Email is always welcome for those who prefer to write.
 
 - **Tagline:** "Postpartum Care, Rooted in Village Support," restoring the village every new mother
   deserves, one visit at a time.
+- **DoulaMatch reviews (testimonials):** https://doulamatch.net/testimonial/37085
+- **Google reviews:** [link to add]
 - **Book a discovery call:** https://www.wombandrootbirth.com/contact (the Contact page, titled "Book a Postpartum Doula Consultation")
 - **Address:** 1402 Auburn Way North, Suite 346, Auburn, WA 98002
 - **Pages:** Services (/services-sales-page-2) · Shop Add-Ons (/services-store) · Why Yoni Steam

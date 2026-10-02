@@ -16,7 +16,7 @@ If our time together blessed you, would you consider sharing a few words about y
 You can leave a review here, whichever feels easiest:
 
 🌿 **Google:** [Google review link]
-🌸 **DoulaMatch:** [DoulaMatch review link]
+🌸 **DoulaMatch:** https://doulamatch.net/testimonial/37085
 
 Even a sentence or two is a beautiful gift. And if you know an expecting mama who could use support, I'd be honored if you passed my name along.
 
@@ -29,7 +29,7 @@ Founder, Womb & Root Birthing Services
 
 ## Before sending
 
-- [ ] Add your Google review link and DoulaMatch review link
+- [ ] Add your Google review link (DoulaMatch link is filled in)
 - [ ] Add each mother's name (and her baby's name, if you'd like)
 
 ## After sending
