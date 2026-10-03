@@ -82,7 +82,7 @@ can rest and heal. 💛
 ache of a loss, we see you and we honor your baby. On October 15 at 7pm, families around the
 world light a candle in remembrance. You are welcome to join us in lighting one.
 If you're struggling, Postpartum Support International offers support at
-**1-800-944-4773**. *[Darlene: please confirm this number is current before sending.]*
+**1-800-944-4773** (English and Spanish). If you are in crisis, please call or text **988**.
 
 ---
 
@@ -93,8 +93,11 @@ find deeply comforting, wrapping the belly and hips to feel supported, held, and
 body recovers. We offer binding as part of our womb wellness care, and would love to
 tell you more.
 
-*[Darlene: add any agency news here, such as a new doula joining the team, an upcoming event,
-or open spots for winter births.]*
+**News from Womb & Root.** I'm so happy to share that I have space for **three families each month
+this October and November.** Our new postpartum packages include *Moonlit Nest* overnight support,
+so you can actually sleep, and *Full Circle Care*, day and night. We accept Apple Health, and you
+can find us in the Apple Health doula directory. TRICARE is coming soon for our military families.
+If you or someone you love is expecting, I'd be honored to walk beside you.
 
 ---
 
@@ -131,9 +134,9 @@ South King County & Pierce County, Washington
 
 ### ✅ For Darlene: fill in or check before sending
 
-- [ ] Add your discovery call link
-- [ ] Add agency news in "From our circle"
-- [ ] Confirm the Postpartum Support International number (1-800-944-4773)
+- [x] Add your discovery call link
+- [x] Add agency news in "From our circle" (drafted. Read it over and change anything you like)
+- [x] Confirm the Postpartum Support International number (1-800-944-4773, confirmed on postpartum.net; 988 added for crisis)
 - [ ] Choose photos from the list above (your own photos, or Flodesk's free stock photos)
 - [ ] Build it in Flodesk using `newsletters/2026-10-flodesk-build.md`
 - [ ] Decide whether to include the pregnancy loss note this year (it can be tender for some readers)

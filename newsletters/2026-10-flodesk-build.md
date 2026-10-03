@@ -81,8 +81,7 @@ Delete any old blocks you don't need, and add new ones with the **+** button.
 ## Step 6: Schedule it
 
 - **Suggested:** **Wednesday, October 7, 2026, at 7:30 AM** (Pacific), matching your usual
-  Wednesday-morning rhythm. If you'd rather send sooner, Wednesday, September 30 or
-  Thursday, October 1 works too.
+  Wednesday-morning rhythm. 
 - The Pregnancy & Infant Loss Remembrance candle lighting is **October 15**, so any send
   before then keeps that invitation timely.
 
@@ -95,9 +94,9 @@ opens and clicks in Flodesk and suggest what to try next month.
 
 ### ✅ Before you schedule
 
-- [ ] Button links to https://www.wombandrootbirth.com/contact
-- [ ] Agency news added in "From our circle"
-- [ ] Postpartum Support International number confirmed (1-800-944-4773)
+- [x] Button link: https://www.wombandrootbirth.com/contact
+- [x] Agency news drafted in "From our circle"
+- [x] Postpartum Support International number confirmed (1-800-944-4773)
 - [ ] Photos chosen (see "Photos" in the newsletter file)
 - [ ] Decided whether to include the pregnancy loss note
 - [ ] Test email checked on your phone
