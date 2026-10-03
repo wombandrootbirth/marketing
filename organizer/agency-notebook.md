@@ -44,6 +44,9 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ## Tasks
 
 ### To do
+- [ ] **Weekend:** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
+- [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
+- [ ] Build the October newsletter in Flodesk and schedule it for Wed, Oct 7 (`newsletters/2026-10-flodesk-build.md`)
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
 - [ ] Finalize the doula employment ad
@@ -57,13 +60,19 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [x] Fill in the team table and open spots (Sept 30, 2026)
 - [x] Update the brochure in Canva for postpartum packages (Sept 30, 2026)
 - [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)
-- [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 
 ## Ideas parking lot
 
-
 *Little seeds to come back to.*
 
+- 🌸 **Mobile postpartum pampering, using Darlene's 23 years as a licensed esthetician** (added Oct 2026).
+  Ideas: a postpartum facial ("Glow & Restore"), a facial add-on during Day Support visits, a
+  "Mama Pamper" visit (facial, scalp massage, hand or foot care), gift certificates, and pampering
+  at Nesting Parties or blessingways. Private pay.
+  *Before starting:* check WA Department of Licensing rules for esthetics in clients' homes
+  (shop or mobile license), confirm liability insurance covers doula and esthetics work, and
+  set a pregnancy- and breastfeeding-safe product policy. Start small with one add-on, after the
+  brochure, newsletter, and week 1 outreach are finished.
 - A "Fourth Trimester Circle" for new mothers (monthly, in person or online)
 - Postpartum gift cards for baby showers and the holidays
 - A digital guided Reiki / tuning fork meditation for pregnancy or postpartum rest
@@ -76,6 +85,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 |---|---|---|---|
 | Midwifery Birth Center at St. Joseph (nurse manager) | Hospital birth center | Oct 2026: interviewed (not selected); thank-you sent and answered warmly | Policy: no brochures or cards from outside doulas. Keep the relationship kind; no further asks |
 | Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
+| Family Connects Pierce County ((253) 290-0904) | Newborn nurse home visits | Oct 2, 2026, voicemail left | Call back around Oct 7 if no reply (script: `marketing-plan/call-scripts/family-connects.md`) |
+| Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up around Oct 9 if no reply |
 | River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 |
 
 ---
