@@ -65,7 +65,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 *Little seeds to come back to.*
 
-- 🌸 **Mobile postpartum pampering, using Darlene's 23 years as a licensed esthetician** (added Oct 2026).
+- 🌸 **Mobile postpartum pampering, using Darlene's license as an esthetician** (added Oct 2026).
   Ideas: a postpartum facial ("Glow & Restore"), a facial add-on during Day Support visits, a
   "Mama Pamper" visit (facial, scalp massage, hand or foot care), gift certificates, and pampering
   at Nesting Parties or blessingways. Private pay.

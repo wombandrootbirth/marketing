@@ -14,8 +14,8 @@ mothers through the sacred season after birth in South King & Pierce County, WA.
 
 ## Medium (2–3 sentences)
 
-I'm Darlene Johnson, a postpartum doula, womb wellness practitioner, and licensed esthetician with
-23 years of experience, and the founder of Womb & Root Birthing Services in South King & Pierce
+I'm Darlene Johnson, a postpartum doula, womb wellness practitioner, and licensed esthetician, and
+the founder of Womb & Root Birthing Services in South King & Pierce
 County, Washington. I believe no mother should walk through the tender weeks after birth alone. My
 monthly letters offer gentle wisdom on feminine embodiment, wellness over 40, and the sacred journey
 of motherhood.
@@ -25,7 +25,7 @@ of motherhood.
 Hi, I'm Darlene. 🌸
 
 I'm a postpartum doula, womb wellness practitioner, feminine energy embodiment coach, and licensed
-esthetician with 23 years of experience caring for women's bodies and spirits. As the founder of
+esthetician, caring for women's bodies and spirits. As the founder of
 Womb & Root Birthing Services, I hold space for mothers in the tender season after birth, with day
 and overnight support, holistic healing, and a listening heart.
 
@@ -36,6 +36,8 @@ community.
 You were never meant to do this alone.
 
 ## Note
+
+Don't mention years of experience as an esthetician unless Darlene asks for it.
 
 Being a licensed esthetician is listed as a credential. Esthetics *services* (facials and
 pampering) are an idea in progress. See the Ideas list in `organizer/agency-notebook.md`.
