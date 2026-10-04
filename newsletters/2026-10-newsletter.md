@@ -1,7 +1,7 @@
 # October 2026 Newsletter — *The Season of Rooting*
 
-*First draft for Darlene's feedback. Build and send it in Flodesk. See
-`newsletters/2026-10-flodesk-build.md` for where each section goes.*
+*First draft for Darlene's feedback. Build and send it in Kit. See
+`newsletters/2026-10-kit-build.md` for where each section goes.*
 
 ---
 
@@ -137,6 +137,6 @@ South King County & Pierce County, Washington
 - [x] Add your discovery call link
 - [x] Add agency news in "From our circle" (drafted. Read it over and change anything you like)
 - [x] Confirm the Postpartum Support International number (1-800-944-4773, confirmed on postpartum.net; 988 added for crisis)
-- [ ] Choose photos from the list above (your own photos, or Flodesk's free stock photos)
-- [ ] Build it in Flodesk using `newsletters/2026-10-flodesk-build.md`
+- [ ] Choose photos from the list above (your own photos, or free stock photos)
+- [ ] Build it in Kit using `newsletters/2026-10-kit-build.md`
 - [ ] Decide whether to include the pregnancy loss note this year (it can be tender for some readers)

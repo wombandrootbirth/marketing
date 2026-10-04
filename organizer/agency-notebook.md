@@ -23,10 +23,13 @@ Until the team grows, outreach should fit Darlene's own capacity.
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
 - **Private pay:** see `brand/services-menu.md` (Day Support $70/hr, Overnight $75/hr, packages from $405)
 
-## Newsletter (Flodesk)
+## Newsletter (Kit)
 
-- **Sent from:** Flodesk, starting from a duplicate of the saved "Newsletter Template" design
-- **List size:** about 3,180 subscribers (September 2026)
+- **Sent from:** Kit, free plan (up to 10,000 subscribers). Moved from Flodesk on Oct 4, 2026.
+- **List size:** 2,311 subscribers, everyone who had ever opened a Flodesk email, tagged
+  "Imported from Flodesk." (877 who had never opened were left out, to protect inbox placement.)
+- **Flodesk:** keep until the first Kit newsletter has gone out smoothly, then cancel. A segment
+  called "Moving to Kit - Ever Opened" holds the exported group.
 - **Usual results:** 14–20% opens; very few clicks, so use one clear discovery call button
 - **Best send days:** Monday or Wednesday morning (Pacific)
 - **Past clients group:** "Birth and Postpartum Clients" (include them in newsletters)
@@ -46,7 +49,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ### To do
 - [ ] **Weekend:** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
 - [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
-- [ ] Build the October newsletter in Flodesk and schedule it for Wed, Oct 7 (`newsletters/2026-10-flodesk-build.md`)
+- [ ] Build the October newsletter in Kit and schedule it for Wed, Oct 7 (`newsletters/2026-10-kit-build.md`)
+- [ ] Cancel Flodesk after the first Kit newsletter goes out smoothly
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
 - [ ] Finalize the doula employment ad
@@ -56,7 +60,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [ ] Gather 5–10 photos for posts: you, your hands at work, binding cloths, teas, soft home moments
 
 ### Done
-- [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026)
+- [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026), then moved to Kit's free plan
+- [x] Move 2,311 subscribers from Flodesk to Kit (Oct 4, 2026)
 - [x] Fill in the team table and open spots (Sept 30, 2026)
 - [x] Update the brochure in Canva for postpartum packages (Sept 30, 2026)
 - [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)

@@ -16,7 +16,7 @@ who read from it and write into it. The more you keep in the cabinet, the better
 | `organizer/weekly-plans/` | One plan per week | Agency Assistant |
 | `marketing-plan/weekly-lists/` | One outreach list per week | Client Finder |
 | `marketing-plan/discovery-call-invitation.md` | Ready words to invite people to a discovery call | Ready to use |
-| `newsletters/` | One newsletter and one Flodesk build guide per month (plus a Canva guide for graphics) | Newsletter Writer |
+| `newsletters/` | One newsletter and one Kit build guide per month (plus a Canva guide for graphics) | Newsletter Writer |
 | `social-media/` | Posts for Facebook, Instagram, and more | You and Claude |
 
 **The golden rule:** your helpers only know what's written in the cabinet. When something changes
@@ -36,7 +36,7 @@ it in the notebook.
 |---|---|---|
 | **Agency Assistant** | "Plan my week." | Top 3 priorities, what's coming up, your next offering idea, a social media rhythm, admin reminders, and rest |
 | **Client Finder** | "Make my weekly marketing list." | People and places to reach out to, with messages ready to send, plus posts and a past-client check-in |
-| **Newsletter Writer** | "Write next month's newsletter." | A full newsletter, plus a step-by-step Flodesk build guide |
+| **Newsletter Writer** | "Write next month's newsletter." | A full newsletter, plus a step-by-step Kit build guide |
 
 **How to start:** go to **claude.ai/code**, choose your **marketing** project, and type your
 request in plain words.
@@ -55,8 +55,8 @@ request in plain words.
 
 ### 🌸 Around the 20th of each month
 
-Say **"Write next month's newsletter."** Review it, add your news, then build it in Flodesk
-using that month's build guide (for example `newsletters/2026-10-flodesk-build.md`).
+Say **"Write next month's newsletter."** Review it, add your news, then build it in Kit
+using that month's build guide (for example `newsletters/2026-10-kit-build.md`).
 
 ### ✨ Anytime
 

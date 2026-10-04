@@ -14,6 +14,10 @@ List size: about 3,180 subscribers. Prices and limits change, so check before de
 
 Sources: [EmailTooltester free newsletter platforms](https://www.emailtooltester.com/en/blog/free-newsletter-platforms/)
 
+## Decision (Oct 4, 2026)
+
+Darlene chose **Kit's free plan** and imported 2,311 subscribers (everyone who had ever opened).
+
 ## Recommendation
 
 1. Use **Kit's free plan** for the Womb & Root newsletter.

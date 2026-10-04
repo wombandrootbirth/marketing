@@ -1,5 +1,7 @@
 # Build the October Newsletter in Flodesk
 
+> **No longer used.** The newsletter moved to Kit on Oct 4, 2026. See `newsletters/2026-10-kit-build.md`.
+
 *Step-by-step recipe. The words live in `newsletters/2026-10-newsletter.md`. This guide tells you
 where each piece goes in Flodesk.*
 
