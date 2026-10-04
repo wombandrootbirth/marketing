@@ -6,7 +6,9 @@ A holistic birthing agency offering feminine energy embodiment coaching, postpar
 and womb wellness support, with a team of doulas serving families through pregnancy, birth,
 and the sacred postpartum season.
 
-- Founder: Darlene Johnson
+- Founder: Darlene Johnson, Postpartum Doula · Womb Wellness Practitioner · Feminine Energy
+  Embodiment Coach · Licensed Esthetician (23 years)
+- Bios: see `brand/bios.md`
 - Areas served: South King County and Pierce County, Washington
 - Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
