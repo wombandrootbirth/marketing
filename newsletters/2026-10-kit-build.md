@@ -32,6 +32,9 @@ from time to time, so if a button has a slightly different name, look for the cl
 
 ## Step 4: Add the content, top to bottom
 
+**Easiest:** open `newsletters/2026-10-kit-paste.html`. It has every section formatted and ready to
+copy and paste, in order.
+
 Copy each section from `newsletters/2026-10-newsletter.md` into the email:
 
 1. **Header image:** autumn leaves or tree roots (optional, but lovely)
