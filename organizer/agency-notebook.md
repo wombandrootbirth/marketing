@@ -53,6 +53,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ## Tasks
 
 ### To do
+- [ ] Update the 6 Week Healing Journey guide before promoting it: comfrey (outside use only), one name on the cover and copyright, and decide where it's sold and its price. Then ask Claude for Week 0–1 captions.
 - [ ] **Week of Oct 19:** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
 - [ ] **This week (evenings):** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
 - [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
