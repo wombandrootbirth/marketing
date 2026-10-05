@@ -54,7 +54,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ### To do
 - [ ] **Week of Oct 19:** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
-- [ ] **Weekend:** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
+- [ ] **This week (evenings):** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
 - [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 - [ ] Cancel Flodesk after the first Kit newsletter goes out smoothly
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
@@ -95,6 +95,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 | Name / place | Type | Contacted on | Next step |
 |---|---|---|---|
+| Open Arms Perinatal Services | Community doula agency | Ongoing | Darlene is a contracted doula with Open Arms; she manages this relationship herself |
 | Midwifery Birth Center at St. Joseph (nurse manager) | Hospital birth center | Oct 2026: interviewed (not selected); thank-you sent and answered warmly | Policy: no brochures or cards from outside doulas. Keep the relationship kind; no further asks |
 | Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
 | Family Connects Pierce County ((253) 290-0904) | Newborn nurse home visits | Oct 2, 2026, voicemail left | Call back around Oct 7 if no reply (script: `marketing-plan/call-scripts/family-connects.md`) |

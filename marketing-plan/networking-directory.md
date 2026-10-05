@@ -32,7 +32,7 @@ partners who meet mothers *right around birth* and can refer quickly.
 | Week | Reach out to | Why this week |
 |---|---|---|
 | **1** | The Birthing Inn · River Lactation · Wellspring Midwifery · Family Connects Pierce County | They see new mothers in the first days and weeks, which fits your October spots |
-| **2** | Natural Beginnings Midwifery Care · Perinatal Support Washington · Open Arms Perinatal Services | An independent midwife, plus community groups that keep postpartum resource lists |
+| **2** | Natural Beginnings Midwifery Care · Perinatal Support Washington | An independent midwife, plus a community group that keeps postpartum resource lists. (Darlene is already a contracted doula with Open Arms.) |
 | **3** | PhysioStrength Pelvic Health · Dr. Mandi Murtaugh PT · Anchor Physical Therapy | Pelvic floor therapists see postpartum mothers for weeks |
 | **4** | Lumos Chiropractic · Brilliant Life Chiropractic · McAuley Family Chiropractic | Prenatal chiropractors, for mothers due in late fall and winter |
 | **5** | JBLM New Parent Support Program · Tacoma-Pierce County Health Dept. family programs · Mom & Baby Support Group at Good Samaritan | Military and community families (November is Military Family Appreciation Month). Ask the group facilitator, not the hospital |
@@ -206,7 +206,7 @@ postpartum doula · 425-908-7919
 
 ## 🤝 Community doula organizations
 
-**Open Arms Perinatal Services**: free birth and postpartum doula care in King, Pierce and
+**Open Arms Perinatal Services** *(Darlene is a contracted doula with Open Arms; she manages this relationship herself)*: free birth and postpartum doula care in King, Pierce and
 Snohomish counties
 - Why: a respected community partner. They also list community doula agencies. Ask about
   being included, or about referring families when either of you is full.
