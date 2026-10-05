@@ -34,6 +34,12 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - **Best send days:** Monday or Wednesday morning (Pacific)
 - **Past clients group:** "Birth and Postpartum Clients" (include them in newsletters)
 
+## Darlene's availability
+
+- Working a 9-to-5 job until about **mid-October 2026**. Until then, plan outreach for **evenings and
+  weekends**: emails, calls left as voicemails, and online tasks. In-person visits wait until after
+  she leaves the job (around the week of Oct 19).
+
 ## Open spots (next 4–8 weeks)
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
@@ -47,6 +53,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ## Tasks
 
 ### To do
+- [ ] **Week of Oct 19:** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
 - [ ] **Weekend:** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
 - [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 - [ ] Cancel Flodesk after the first Kit newsletter goes out smoothly
@@ -92,7 +99,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 | Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
 | Family Connects Pierce County ((253) 290-0904) | Newborn nurse home visits | Oct 2, 2026, voicemail left | Call back around Oct 7 if no reply (script: `marketing-plan/call-scripts/family-connects.md`) |
 | Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up around Oct 9 if no reply |
-| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 |
+| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 (week of Oct 19) |
 
 ---
 
