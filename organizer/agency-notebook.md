@@ -73,6 +73,13 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [x] Update the brochure in Canva for postpartum packages (Sept 30, 2026)
 - [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)
 
+## Digital products
+
+- **6 Week Postpartum Healing Journey** (54-page guide). Canva: "6 Week Postpartum Healing Journey."
+  Google Drive: "6 Week Postpartum Healing Program" folder. Content calendar:
+  `social-media/content-calendar-6-week-healing-journey.md` (Oct 12 – Nov 22, 2026).
+  Still to decide: where it's sold, and its price.
+
 ## Ideas parking lot
 
 *Little seeds to come back to.*
