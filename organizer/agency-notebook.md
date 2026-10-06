@@ -54,9 +54,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ### To do
 - [ ] Update the 6 Week Healing Journey guide before promoting it: comfrey (outside use only), one name on the cover and copyright, and decide where it's sold and its price. Then ask Claude for Week 0–1 captions.
-- [ ] **Week of Oct 19:** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
+- [ ] **Once brochures arrive (week of Oct 19 or Oct 26):** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
 - [ ] **This week (evenings):** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
-- [ ] Print a small batch (about 50) of "Womb & Root Brochure — Postpartum 2026" from Canva, after scanning the QR code
 - [ ] Cancel Flodesk after the first Kit newsletter goes out smoothly
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
@@ -70,6 +69,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - [x] Choose an email tool for the newsletter: Flodesk (Sept 29, 2026), then moved to Kit's free plan
 - [x] Move 2,311 subscribers from Flodesk to Kit (Oct 4, 2026)
 - [x] Build and schedule the October newsletter in Kit for Wed, Oct 7 (Oct 4, 2026)
+- [x] Order ~50 brochures from Canva (Oct 6, 2026). Arriving Oct 14–23.
 - [x] Fill in the team table and open spots (Sept 30, 2026)
 - [x] Update the brochure in Canva for postpartum packages (Sept 30, 2026)
 - [x] Save all 4 outreach emails: midwives, lactation, chiropractors, OB-GYN (`marketing-plan/outreach-emails/`)

@@ -21,7 +21,7 @@ mid-October, so weekday tasks are planned for evenings; in-person visits start t
 
 | When | Task | Time |
 |---|---|---|
-| Mon, Oct 5 (evening) | Order ~50 brochures through Canva print delivery (scan the QR code first) | 15 min |
+| ✓ Tue, Oct 6 | ~~Order ~50 brochures through Canva~~ **Ordered!** Arriving **Oct 14–23** | done |
 | This week (evenings) | Email **Perinatal Support Washington** (`outreach-emails/perinatal-support-washington.md`) | 5 min |
 | This week (evenings) | Email **Natural Beginnings Midwifery Care** (midwife email + prenatal yoga opener) | 10 min |
 | This week (evenings) | Send **past-client review requests** (Google + DoulaMatch links are filled in) | 20 min |
@@ -50,7 +50,7 @@ mid-October, so weekday tasks are planned for evenings; in-person visits start t
 | When | Task | Time |
 |---|---|---|
 | Mon, Oct 19 | Update your notebook | 10 min |
-| This week (daytime) | 🚗 **Visit The Birthing Inn + River Lactation** (6002 Westgate Blvd., Suite 120, Tacoma) with brochures | 1 hr |
+| Once brochures arrive | 🚗 **Visit The Birthing Inn + River Lactation** (6002 Westgate Blvd., Suite 120, Tacoma) with brochures. If they arrive late, move to the week of Oct 26. | 1 hr |
 | This week | Content calendar Week 2: Nurturing & Lactation | 3 posts |
 | This week | **Outreach, rotation week 4:** prenatal chiropractors (Lumos, Brilliant Life, McAuley) using your chiropractor email | 20 min |
 | Around Oct 20 | Ask Claude: **"Write November's newsletter"** (feature the Healing Journey guide) | 30 min |
@@ -84,4 +84,5 @@ mid-October, so weekday tasks are planned for evenings; in-person visits start t
 | River Lactation | Emailed Sept 30 |
 | Wellspring Midwifery | Emailed Oct 2 |
 | Family Connects | Voicemail Oct 2 |
+| Brochures (Canva print) | Ordered Oct 6. Arriving Oct 14–23. |
 | Kit domain authentication | Optional. Ask Claude to walk you through it. |
