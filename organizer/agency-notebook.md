@@ -36,11 +36,15 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Darlene's availability
 
-- Working a 9-to-5 job until about **mid-October 2026**. Until then, plan outreach for **evenings and
-  weekends**: emails, calls left as voicemails, and online tasks. In-person visits wait until after
-  she leaves the job (around the week of Oct 19).
+- **Gave 2-week notice on Oct 7, 2026.** Last day at the 9-to-5: about **Oct 21**. Until then, plan
+  outreach for evenings and weekends; in-person visits start after Oct 21.
+- **Traveling to Dallas Oct 8–12.** No work planned; home Oct 12.
 
 ## Open spots (next 4–8 weeks)
+
+**Client updates (Oct 7, 2026):** met a **new birth client**; welcomed a **new client due in December**;
+sent paperwork to current **postpartum clients**. (Client details live in Doulado, not here.)
+[Darlene: how many October and November postpartum spots are still open?]
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
 
@@ -55,14 +59,14 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ### To do
 - [ ] **Ongoing:** Add each new client to the newsletter in Kit (with her permission), tagged "Clients." Also bring over the 10 past clients left out of the Flodesk import.
 - [ ] Update the 6 Week Healing Journey guide before promoting it: comfrey (outside use only), one name on the cover and copyright, and decide where it's sold and its price. Then ask Claude for Week 0–1 captions.
-- [ ] **Once brochures arrive (week of Oct 19 or Oct 26):** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
+- [ ] **Once brochures arrive (after Oct 21):** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
 - [ ] **This week (evenings):** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
 - [ ] Cancel Flodesk after the first Kit newsletter goes out smoothly
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
       3 groups done as of Sept 30. [Which groups? Add them below so we don't repeat.]
 - [ ] Finalize the doula employment ad
 - [ ] Finalize onboarding paperwork for new doulas
-- [ ] Follow up on the TRICARE West application (submitted Sept 30) if no reply by Oct 8
+- [ ] Follow up on the TRICARE West application (submitted Sept 30). Reminder moved to Oct 13.
 - [ ] Add prices or price ranges for each service (for your own reference)
 - [ ] Gather 5–10 photos for posts: you, your hands at work, binding cloths, teas, soft home moments
 
@@ -107,9 +111,9 @@ Until the team grows, outreach should fit Darlene's own capacity.
 | Open Arms Perinatal Services | Community doula agency | Ongoing | Darlene is a contracted doula with Open Arms; she manages this relationship herself |
 | Midwifery Birth Center at St. Joseph (nurse manager) | Hospital birth center | Oct 2026: interviewed (not selected); thank-you sent and answered warmly | Policy: no brochures or cards from outside doulas. Keep the relationship kind; no further asks |
 | Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
-| Family Connects Pierce County ((253) 290-0904) | Newborn nurse home visits | Oct 2, 2026, voicemail left | Call back around Oct 7 if no reply (script: `marketing-plan/call-scripts/family-connects.md`) |
-| Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up around Oct 9 if no reply |
-| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up around Oct 7 if no reply; bring brochures when visiting Suite 120 (week of Oct 19) |
+| Family Connects Pierce County ((253) 290-0904) | Newborn nurse home visits | Oct 2, 2026, voicemail left | Call back Oct 13 if no reply (script: `marketing-plan/call-scripts/family-connects.md`) |
+| Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up Oct 14 if no reply |
+| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up Oct 13 if no reply; bring brochures when visiting Suite 120 (after Oct 21) |
 
 ---
 
