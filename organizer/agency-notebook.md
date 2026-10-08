@@ -53,6 +53,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 ## Tasks
 
 ### To do
+- [ ] **Ongoing:** Add each new client to the newsletter in Kit (with her permission), tagged "Clients." Also bring over the 10 past clients left out of the Flodesk import.
 - [ ] Update the 6 Week Healing Journey guide before promoting it: comfrey (outside use only), one name on the cover and copyright, and decide where it's sold and its price. Then ask Claude for Week 0–1 captions.
 - [ ] **Once brochures arrive (week of Oct 19 or Oct 26):** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
 - [ ] **This week (evenings):** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)

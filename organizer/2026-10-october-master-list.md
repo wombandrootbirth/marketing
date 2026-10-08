@@ -71,6 +71,8 @@ mid-October, so weekday tasks are planned for evenings; in-person visits start t
 
 ## Ongoing all month
 
+- **Add new clients to the newsletter** in Kit (with permission), tagged "Clients"
+
 - Post in **2–3 Facebook mom groups** a week (keep a list of which groups, so you don't repeat)
 - Reply to messages and comments within a day
 - Gather **5–10 photos** for posts: you, your hands at work, binding cloths, teas, soft home moments
