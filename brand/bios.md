@@ -35,12 +35,14 @@ community.
 
 You were never meant to do this alone.
 
-## TikTok (80-character limit, no location)
+## TikTok (160-character limit, no location)
 
-1. Postpartum & travel doula 🌿 Rest, heal, return home to yourself
-2. Rest, heal, return home to yourself 🌿 Postpartum & travel doula | Book ⬇️
-3. Travel postpartum doula 🌸 Womb wellness · Licensed esthetician | Book ⬇️
-4. Postpartum doula who comes to you, wherever you are 🌿 Womb wellness & healing
+*Each one is under 155 characters, leaving a little room in case emojis count as two.*
+
+1. Postpartum & travel doula 🌿 Helping new mothers rest, heal & return home to themselves. Womb wellness · Feminine energy · Licensed esthetician. Book ⬇️
+2. You were never meant to do this alone 🌿 Postpartum & travel doula, womb wellness & feminine energy coach. I come to you, wherever you are. Book ⬇️
+3. Travel postpartum doula 🌸 Overnight care, belly binding & yoni steams. Licensed esthetician & feminine energy coach. Rest, heal, bloom. Free call ⬇️
+4. Postpartum & travel doula 🌿 Soft, rooted care for the fourth trimester, wherever you are. Womb wellness for women of every season. Book a free call ⬇️
 
 - **Name:** Darlene | Womb & Root
 - **Website link:** wombandrootbirth.com/contact (a business account usually allows a link right away)
