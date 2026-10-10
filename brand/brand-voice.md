@@ -11,6 +11,8 @@ and the sacred postpartum season.
   (Don't mention years of experience as an esthetician unless Darlene asks for it.)
 - Bios: see `brand/bios.md`
 - Areas served: South King County and Pierce County, Washington
+- **Travel doula:** also available to travel to postpartum clients outside the area. On social
+  media bios (like TikTok), leave out the location and say "postpartum & travel doula."
 - Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
 - Phone: (206) 409-9747 · Email: info@wombandrootbirth.com
