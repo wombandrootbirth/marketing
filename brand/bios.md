@@ -35,6 +35,16 @@ community.
 
 You were never meant to do this alone.
 
+## TikTok (80-character limit)
+
+1. Postpartum doula 🌿 Womb wellness & healing | S. King & Pierce Co, WA
+2. Holistic postpartum doula & licensed esthetician 🌸 Tacoma & S. King Co, WA
+3. Rest, heal, return home to yourself 🌿 Postpartum doula | Pierce & S. King WA
+4. Postpartum doula · Womb wellness · Licensed esthetician 🌿 WA | Book below ⬇️
+
+- **Name:** Darlene | Womb & Root
+- **Website link:** wombandrootbirth.com/contact (a business account usually allows a link right away)
+
 ## Note
 
 Don't mention years of experience as an esthetician unless Darlene asks for it.
