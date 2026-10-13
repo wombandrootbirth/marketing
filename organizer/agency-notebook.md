@@ -58,9 +58,9 @@ sent paperwork to current **postpartum clients**. (Client details live in Doulad
 
 ### To do
 - [ ] **Wed, Oct 14, 10:30 AM:** Client call with a mom due Dec 12
-- [ ] **This week:** Schedule and complete a visit with the client due Oct 25
+- [ ] **This week:** Schedule time to see the mama due Oct 25 (her due date is Oct 25)
 - [ ] **This week:** Email Gwen (Swedish doula program): update that Darlene left her job; ask about Pierce County leads
-- [ ] **This week:** Follow-up email to Vonda at Open Arms
+- [ ] **This week:** Email Vonda at Open Arms: ask her to resend the contract; share that Darlene left her job
 - [ ] **Ongoing:** Add each new client to the newsletter in Kit (with her permission), tagged "Clients." Also bring over the 10 past clients left out of the Flodesk import.
 - [ ] Update the 6 Week Healing Journey guide before promoting it: comfrey (outside use only), one name on the cover and copyright, and decide where it's sold and its price. Then ask Claude for Week 0–1 captions.
 - [ ] **Once brochures arrive (after Oct 21):** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
@@ -112,7 +112,7 @@ sent paperwork to current **postpartum clients**. (Client details live in Doulad
 
 | Name / place | Type | Contacted on | Next step |
 |---|---|---|---|
-| Open Arms Perinatal Services | Community doula agency | Ongoing | Darlene is a contracted doula with Open Arms; she manages this relationship herself. Contact: Vonda. Follow-up email week of Oct 12 |
+| Open Arms Perinatal Services | Community doula agency | Ongoing | Darlene is a contracted doula with Open Arms; she manages this relationship herself. Contact: Vonda. Emailing week of Oct 12: ask to resend contract + job update |
 | Swedish doula program | Hospital doula program | Ongoing | Contact: Gwen (Darlene's boss there). Emailing week of Oct 12: job update + ask for Pierce County leads |
 | Midwifery Birth Center at St. Joseph (nurse manager) | Hospital birth center | Oct 2026: interviewed (not selected); thank-you sent and answered warmly | Policy: no brochures or cards from outside doulas. Keep the relationship kind; no further asks |
 | Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
