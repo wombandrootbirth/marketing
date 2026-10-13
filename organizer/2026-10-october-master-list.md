@@ -1,6 +1,6 @@
 # October 2026 — Master List
 
-*Everything for Womb & Root this month, in one place. Updated Oct 8.*
+*Everything for Womb & Root this month, in one place. Updated Oct 13.*
 
 **Darlene's month:** gave her **2-week notice on Oct 7** (last day at the 9-to-5: about **Oct 21**).
 Traveling to **Dallas Oct 8–12**, with no work planned. Until her last day, weekday tasks are for
@@ -15,6 +15,7 @@ evenings; in-person visits start after Oct 21.
 | Date | Time | Event | Notes |
 |---|---|---|---|
 | Oct 8–12 | — | ✈️ **Dallas trip** | Rest. No work planned. Home Oct 12. |
+| **Wed, Oct 14** | **10:30 AM** | 📞 **Client call:** mom due Dec 12 | Discovery/consult call |
 | About Oct 21 | — | 🎉 **Last day at the 9-to-5** | In-person visits open up after this |
 
 ---
@@ -38,6 +39,10 @@ evenings; in-person visits start after Oct 21.
 | Mon, Oct 12 | Travel home. **Rest.** Nothing planned. | — |
 | Tue, Oct 13, 9 AM | **TRICARE West** check-in (Claude will remind you here) | 5 min |
 | Tue, Oct 13 (evening) | Follow up with **River Lactation** and call back **Family Connects** (253-290-0904), if no replies | 10 min |
+| **Tue, Oct 13** | 💛 **Schedule a visit** with your client due **Oct 25** (aim for this week) | 5 min |
+| Tue, Oct 13 (evening) | Email **Gwen** (Swedish doula program): share that you've left your job, and ask about Pierce County leads | 10 min |
+| Tue, Oct 13 (evening) | Follow-up email to **Vonda** at Open Arms | 5 min |
+| **Wed, Oct 14, 10:30 AM** | 📞 **Client call** with mom due Dec 12 | 30 min |
 | Wed, Oct 14 (evening) | Follow up with **Wellspring Midwifery**, if no reply | 5 min |
 | Wed, Oct 14 | Check **October newsletter results** in Kit and share with Claude | 10 min |
 | This week (evenings) | Email **Perinatal Support Washington** and **Natural Beginnings Midwifery Care** | 15 min |
