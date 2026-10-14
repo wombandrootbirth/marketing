@@ -15,7 +15,7 @@ evenings; in-person visits start after Oct 21.
 | Date | Time | Event | Notes |
 |---|---|---|---|
 | Oct 8–12 | — | ✈️ **Dallas trip** | Rest. No work planned. Home Oct 12. |
-| **Wed, Oct 14** | **10:30 AM** | 📞 **Client call:** mom due Dec 12 | Discovery/consult call |
+| **Wed, Oct 14** | **10:30 AM** | 📞 **Client call:** December mama (EDD Dec 10) | Discovery/consult call |
 | About Oct 21 | — | 🎉 **Last day at the 9-to-5** | In-person visits open up after this |
 | **From Mon, Oct 19** | 9 AM–2 PM, Mon–Fri | 🌿 **Postpartum day support** (client delivered Oct 12 by cesarean) | Outreach and admin move to afternoons and evenings |
 | **Oct 25** | — | 🤰 **Client due date** | Mama due Oct 25. Be on call around this date |
@@ -45,7 +45,7 @@ evenings; in-person visits start after Oct 21.
 | **Tue, Oct 13** | 💛 **Schedule time to see your mama due Oct 25** (visit this week, before her due date) | 5 min |
 | Tue, Oct 13 (evening) | Email **Gwen** (Swedish doula program): share that you've left your job, and ask about Pierce County leads | 10 min |
 | Tue, Oct 13 (evening) | Email **Vonda** at Open Arms: ask her to resend your contract, and share that you've left your job | 5 min |
-| **Wed, Oct 14, 10:30 AM** | 📞 **Client call** with mom due Dec 12 | 30 min |
+| **Wed, Oct 14, 10:30 AM** | 📞 **Client call** with your December mama (EDD Dec 10) | 30 min |
 | Wed, Oct 14 (evening) | Follow up with **Wellspring Midwifery**, if no reply | 5 min |
 | Wed, Oct 14 | Check **October newsletter results** in Kit and share with Claude | 10 min |
 | This week (evenings) | Email **Perinatal Support Washington** and **Natural Beginnings Midwifery Care** | 15 min |
