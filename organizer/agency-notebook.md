@@ -44,6 +44,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 **Client updates (Oct 7, 2026):** met a **new birth client**; welcomed a **new client due in December**;
 sent paperwork to current **postpartum clients**. (Client details live in Doulado, not here.)
+**Oct 14:** Postpartum client delivered Oct 12 (cesarean); day support starts **Mon Oct 19, Mon–Fri 9 AM–2 PM**.
+Due dates: **Oct 25** and **Dec 10** (birth clients), plus **Dec 12** (call Oct 14). All on the Doulado Google Calendar.
 [Darlene: how many October and November postpartum spots are still open?]
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*

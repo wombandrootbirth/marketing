@@ -17,7 +17,9 @@ evenings; in-person visits start after Oct 21.
 | Oct 8–12 | — | ✈️ **Dallas trip** | Rest. No work planned. Home Oct 12. |
 | **Wed, Oct 14** | **10:30 AM** | 📞 **Client call:** mom due Dec 12 | Discovery/consult call |
 | About Oct 21 | — | 🎉 **Last day at the 9-to-5** | In-person visits open up after this |
+| **From Mon, Oct 19** | 9 AM–2 PM, Mon–Fri | 🌿 **Postpartum day support** (client delivered Oct 12 by cesarean) | Outreach and admin move to afternoons and evenings |
 | **Oct 25** | — | 🤰 **Client due date** | Mama due Oct 25. Be on call around this date |
+| **Dec 10** | — | 🤰 **Client due date** | Mama due Dec 10 |
 
 ---
 
