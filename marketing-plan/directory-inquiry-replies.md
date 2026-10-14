@@ -25,6 +25,36 @@ Womb & Root Birthing Services
 
 ---
 
+## Bornbir instant reply (for matched leads)
+
+*Bornbir already shows her name, due date, and the support she wants, so this reply skips those
+questions. Fill in the **[brackets]**, delete the line that doesn't fit, and send right away. Many
+providers respond to each lead, so a quick, warm reply stands out.*
+
+Hi [Name],
+
+Congratulations on your [first / second] baby! 💛 I'm Darlene, founder of Womb & Root Birthing Services, and I would be honored to walk beside you as you prepare for your [Month] arrival.
+
+**[If she wants birth + postpartum support:]** I offer support from pregnancy through the fourth trimester: calm, steady presence during labor and birth, then in-home postpartum care so you can rest and heal, with overnight and day support, feeding help, and nourishing meal prep.
+
+**[If she wants birth support only:]** I'd love to support you with calm, steady presence during labor and birth, helping you feel informed, supported, and at peace with your choices.
+
+I accept Apple Health, and private pay is always welcome.
+
+I'd love to hear more about your hopes for this birth. The easiest next step is a free, no-pressure discovery call. You can pick a time here: wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+
+With warmth,
+Darlene Johnson
+Womb & Root Birthing Services
+(206) 409-9747
+
+**Personal touch (optional, one sentence):** add one detail from her note, for example:
+- *Hospital birth:* "I'd be happy to support you at the hospital and help you feel at home there."
+- *Natural, unmedicated birth:* "I love supporting natural births, with comfort measures, breath, and gentle encouragement."
+- *Second baby:* "Second babies bring their own magic, and I'd love to help this birth feel just as supported."
+
+---
+
 ## Gentle follow-up (3–4 days later, if no reply)
 
 Hi [Name], I just wanted to check in gently. I know this season is full! 🌿 If you'd still like to chat about postpartum support, I'd love to connect. You can book a free discovery call anytime at wombandrootbirth.com/contact. Wishing you a peaceful week. — Darlene
