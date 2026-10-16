@@ -2,9 +2,9 @@
 
 *Everything for Womb & Root this month, in one place. Updated Oct 13.*
 
-**Darlene's month:** gave her **2-week notice on Oct 7** (last day at the 9-to-5: about **Oct 21**).
+**Darlene's month:** gave her **2-week notice on Oct 7** (last day at the 9-to-5: **Fri, Oct 16** 🎉).
 Traveling to **Dallas Oct 8–12**, with no work planned. Until her last day, weekday tasks are for
-evenings; in-person visits start after Oct 21.
+evenings. From Oct 19, mornings belong to client care.
 
 **Goal this month:** fill **3 postpartum spots** for October and 3 for November.
 
@@ -16,8 +16,9 @@ evenings; in-person visits start after Oct 21.
 |---|---|---|---|
 | Oct 8–12 | — | ✈️ **Dallas trip** | Rest. No work planned. Home Oct 12. |
 | **Wed, Oct 14** | **10:30 AM** | 📞 **Client call:** December mama (EDD Dec 10) | Discovery/consult call |
-| About Oct 21 | — | 🎉 **Last day at the 9-to-5** | In-person visits open up after this |
-| **From Mon, Oct 19** | 9 AM–2 PM, Mon–Fri | 🌿 **Postpartum day support** (client delivered Oct 12 by cesarean) | Outreach and admin move to afternoons and evenings |
+| ✓ **Fri, Oct 16** | — | 🎉 **Last day at the 9-to-5** | Fully in your business from here |
+| **Oct 19–30** | 9 AM–2 PM, Mon–Fri | 🌿 **Postpartum day support** (client delivered Oct 12 by cesarean) | Last day Oct 30. No visit Thu Oct 22. Outreach and admin move to afternoons |
+| **Thu, Oct 22** | 9 AM–2 PM | 📚 **Perinatal conference** | |
 | **Oct 25** | — | 🤰 **Client due date** | Mama due Oct 25. Be on call around this date |
 | **Dec 10** | — | 🤰 **Client due date** | Mama due Dec 10 |
 
@@ -55,7 +56,7 @@ evenings; in-person visits start after Oct 21.
 | Weekend, Oct 17–18 | Update the **6 Week Healing Journey** guide (comfrey, name, where it's sold, price) | 1 hr |
 | Anytime this week | **Cancel Flodesk** (the Kit newsletter went out ✓) | 10 min |
 
-## Week of Oct 19–25 · Last days at the 9-to-5
+## Week of Oct 19–25 · First week fully in your business
 
 | When | Task | Time |
 |---|---|---|
@@ -63,8 +64,7 @@ evenings; in-person visits start after Oct 21.
 | This week (evenings) | **Outreach, rotation week 3:** pelvic floor therapists (PhysioStrength, Dr. Mandi Murtaugh, Anchor PT) | 20 min |
 | This week | **Healing Journey content** begins (intro post + Week 1: Rest & Recovery), once the guide is updated | 3 posts |
 | Around Oct 20 | Ask Claude: **"Write November's newsletter"** (feature the Healing Journey guide) | 30 min |
-| About Wed, Oct 21 | 🎉 **Last day at the 9-to-5!** | — |
-| Once brochures arrive (after Oct 21) | 🚗 **Visit The Birthing Inn + River Lactation** (6002 Westgate Blvd., Suite 120, Tacoma) | 1 hr |
+| Once brochures arrive (afternoon) | 🚗 **Visit The Birthing Inn + River Lactation** (6002 Westgate Blvd., Suite 120, Tacoma) | 1 hr |
 
 ## Week of Oct 26–31 · First full week in your business
 

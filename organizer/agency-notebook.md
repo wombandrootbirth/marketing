@@ -36,15 +36,16 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 ## Darlene's availability
 
-- **Gave 2-week notice on Oct 7, 2026.** Last day at the 9-to-5: about **Oct 21**. Until then, plan
-  outreach for evenings and weekends; in-person visits start after Oct 21.
+- **Gave 2-week notice on Oct 7, 2026.** Last day at the 9-to-5: **Fri, Oct 16**. From Oct 19, weekday
+  mornings are client care (postpartum support Oct 19–30, 9 AM–2 PM); outreach in the afternoons.
+- **Perinatal conference Thu, Oct 22, 9 AM–2 PM.**
 - **Traveling to Dallas Oct 8–12.** No work planned; home Oct 12.
 
 ## Open spots (next 4–8 weeks)
 
 **Client updates (Oct 7, 2026):** met a **new birth client**; welcomed a **new client due in December**;
 sent paperwork to current **postpartum clients**. (Client details live in Doulado, not here.)
-**Oct 14:** Postpartum client delivered Oct 12 (cesarean); day support starts **Mon Oct 19, Mon–Fri 9 AM–2 PM**.
+**Oct 14:** Postpartum client delivered Oct 12 (cesarean); day support **Oct 19–30, Mon–Fri 9 AM–2 PM** (no visit Thu Oct 22, conference).
 Due dates: **Oct 25** and **Dec 10** (birth clients; the Dec 10 mama is the same client as the Oct 14 call, first noted as due Dec 12). All on the Doulado Google Calendar.
 [Darlene: how many October and November postpartum spots are still open?]
 
@@ -65,7 +66,7 @@ Due dates: **Oct 25** and **Dec 10** (birth clients; the Dec 10 mama is the same
 - [ ] **This week:** Email Vonda at Open Arms: ask her to resend the contract; share that Darlene left her job
 - [ ] **Ongoing:** Add each new client to the newsletter in Kit (with her permission), tagged "Clients." Also bring over the 10 past clients left out of the Flodesk import.
 - [ ] Update the 6 Week Healing Journey guide before promoting it: comfrey (outside use only), one name on the cover and copyright, and decide where it's sold and its price. Then ask Claude for Week 0–1 captions.
-- [ ] **Once brochures arrive (after Oct 21):** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
+- [ ] **Once brochures arrive (afternoons):** Visit The Birthing Inn and River Lactation together (6002 Westgate Blvd., Suite 120, Tacoma) with brochures, after leaving the 9-to-5
 - [ ] **This week (evenings):** Send review requests to past clients, with Google and DoulaMatch links (`marketing-plan/outreach-emails/past-client-review-request.md`)
 - [ ] Cancel Flodesk after the first Kit newsletter goes out smoothly
 - [ ] Post the postpartum support introduction in local Facebook mom groups (2–3 groups a day).
@@ -120,7 +121,7 @@ Due dates: **Oct 25** and **Dec 10** (birth clients; the Dec 10 mama is the same
 | Healthpoint (via Darlene's own doctor) | Community health center | Oct 2026 | Policy: can't refer doulas or display brochures. No outreach |
 | Family Connects Pierce County ((253) 290-0904) | Newborn nurse home visits | Oct 2, 2026, voicemail left | Call back Oct 13 if no reply (script: `marketing-plan/call-scripts/family-connects.md`) |
 | Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up Oct 14 if no reply |
-| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up Oct 13 if no reply; bring brochures when visiting Suite 120 (after Oct 21) |
+| River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up Oct 13 if no reply; bring brochures when visiting Suite 120 (afternoons) |
 
 ---
 
