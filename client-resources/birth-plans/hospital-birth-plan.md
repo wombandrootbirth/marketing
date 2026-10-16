@@ -2,9 +2,9 @@
 
 *Womb & Root Birthing Services · Postpartum Care, Rooted in Village Support*
 
-**For Darlene:** copy this into Google Docs or Canva, and fill it out together with your client at
-a prenatal visit. Ask her to bring it to her next provider appointment, then keep 3 printed copies
-in her hospital bag: one for her nurse, one for her chart, and one for you.
+**For Darlene:** add this to Doulado as an electronic form for your client to fill out, then
+review it together at a prenatal visit. Ask her to share it with her provider, and to save a copy
+on her phone (or print one herself) for her nurse on the day.
 
 ---
 

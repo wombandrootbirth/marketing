@@ -2,8 +2,8 @@
 
 *Womb & Root Birthing Services · Postpartum Care, Rooted in Village Support*
 
-**For Darlene:** fill this out together at a prenatal visit, then ask her to review it with her
-midwife. Birth centers already lean toward low-intervention care, so this plan focuses on comfort,
+**For Darlene:** add this to Doulado as an electronic form for your client to fill out, then
+review it together at a prenatal visit and ask her to share it with her midwife. Birth centers already lean toward low-intervention care, so this plan focuses on comfort,
 who's present, the transfer plan, and going home.
 
 ---
