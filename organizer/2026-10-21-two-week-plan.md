@@ -22,8 +22,10 @@ Check things off as you go. If a day gets full, move a task forward with love.*
 ### Thu, Oct 22
 | Time | |
 |---|---|
-| 9 AM–2 PM | 📚 **PCPC Annual Conference**, Environmental Services Building, University Place. Bring brochures and business cards. Collect names and emails. |
-| After | Rest. Jot down everyone you met while it's fresh (5 min). |
+| 9 AM–2 PM | 📚 **PCPC Annual Conference:** *"Charting the Path to Zero: Actionable Strategies to Reduce Infant Deaths in Pierce County."* Perinatal Collaborative of Pierce County, Environmental Services Building (above Chambers Bay), 9850 64th St W, University Place. Bring brochures and business cards. Collect names and emails. |
+| ~2:15 | 🚗 Leave for Auburn (about 40 min) |
+| 3 PM | 🚙 **Oil change**, Bud Clary Auburn Volkswagen. Jot down everyone you met while you wait (5 min). |
+| After | Rest 🌸 |
 
 ⚠️ Your calendar also shows the **Federal Grants Workshop in Quincy** (10 AM–4:30 PM) at the same
 time. Quincy is about 3 hours away, so you can let that one go.
