@@ -9,7 +9,7 @@ guide per week of posts, Oct 12 – Nov 22, 2026.*
 
 **Every post ends with one gentle invitation.** Rotate between:
 - "The full 6 Week Postpartum Healing Journey is waiting for you. [link to guide]"
-- "Want support in person? Book a free discovery call: wombandrootbirth.com/contact"
+- "Want support in person? Book a free discovery call: www.wombandrootbirth.com/contact"
 
 **Hashtags (pick 8–10):** #postpartumdoula #fourthtrimester #postpartumhealing #holisticpostpartum
 #tacomadoula #piercecountymoms #southkingcounty #newmomsupport #womenshealing #wombwellness

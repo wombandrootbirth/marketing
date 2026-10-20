@@ -45,7 +45,7 @@ You were never meant to do this alone.
 4. Postpartum & travel doula 🌿 Soft, rooted care for the fourth trimester, wherever you are. Womb wellness for women of every season. Book a free call ⬇️
 
 - **Name:** Darlene | Womb & Root
-- **Website link:** wombandrootbirth.com/contact (a business account usually allows a link right away)
+- **Website link:** www.wombandrootbirth.com/contact (a business account usually allows a link right away)
 
 ## Note
 

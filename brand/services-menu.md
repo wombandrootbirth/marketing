@@ -74,10 +74,20 @@ be used flexibly across multiple visits. **8 hours is the minimum purchase.**
 
 ## Birth Support
 
-### Birth Doula Support
-- Calm, steady support through labor and birth
-- **$2,200**
-- [Darlene: what's included? For example, the number of prenatal visits, on-call dates, and postpartum follow-up visits.]
+*Birth support is offered by Darlene personally, and she takes birth clients selectively. The
+Womb & Root agency itself is postpartum only.*
+
+### Birth Doula Support with Darlene · $2,200
+- **Initial prenatal visit**
+- **Second prenatal visit**
+- **Provider appointment together:** Darlene comes along to one prenatal appointment to meet the
+  doctor or midwife and staff, so everyone knows the client has a doula
+- **Additional prenatal time, if needed:** for example, a walk together on a mild day, or a
+  prenatal workout or water aerobics class together
+- **On call** from 2 weeks before to 2 weeks after the due date
+- **Continuous labor and birth support**
+- **One postpartum visit (1–2 hours)** soon after birth, to check on mom and baby and share any
+  resources they need
 
 ---
 

@@ -26,7 +26,7 @@ you know as soon as we're approved.
 
 If you're expecting or newly postpartum and longing for support, I'd love to connect. A free
 discovery call is a relaxed, no-pressure chat to share what you need. Book yours at
-**wombandrootbirth.com/contact**, or comment below or send me a message, and I'll reach out. 🌸
+**www.wombandrootbirth.com/contact**, or comment below or send me a message, and I'll reach out. 🌸
 
 You were never meant to do this alone.
 
@@ -44,7 +44,7 @@ and gentle healing support at home or in the hospital after a cesarean birth.
 💛 We accept Washington Apple Health (state insurance).
 💛 Our TRICARE application is pending. Military families, message me for updates!
 
-Free, no-pressure discovery call: **wombandrootbirth.com/contact**, or just comment or send a message.
+Free, no-pressure discovery call: **www.wombandrootbirth.com/contact**, or just comment or send a message.
 You don't have to do this alone. 🌸
 
 ---

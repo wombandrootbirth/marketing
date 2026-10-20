@@ -2,9 +2,13 @@
 
 ## Who we are
 
-A holistic birthing agency offering feminine energy embodiment coaching, postpartum doula care,
-and womb wellness support, with a team of doulas serving families through pregnancy, birth,
-and the sacred postpartum season.
+A holistic **postpartum** agency offering postpartum doula care, womb wellness, and feminine energy
+embodiment coaching, serving families through the sacred postpartum season.
+
+- **The agency is postpartum only.** As Womb & Root grows with employees or contractors, the
+  agency's marketing focuses on postpartum healing.
+- **Birth support is Darlene personally**, and she takes birth clients selectively. When she asks
+  for birth wording, write it in her own voice ("I"), not as an agency service ("we" / "our doulas").
 
 - Founder: Darlene Johnson, Postpartum Doula · Womb Wellness Practitioner · Feminine Energy
   Embodiment Coach · Licensed Esthetician
@@ -15,6 +19,7 @@ and the sacred postpartum season.
   media bios (like TikTok), leave out the location and say "postpartum & travel doula."
 - Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
+- **Booking link:** always write it as **www.wombandrootbirth.com/contact** (with the www.)
 - Phone: (206) 409-9747 · Email: info@wombandrootbirth.com
 - **Business name:** Womb & Root Birthing Services (use this name everywhere)
 
@@ -54,6 +59,7 @@ Steam & Settle, Nourished Days, and Golden Hours / Moonlit Nest hour packages).*
 2. **Postpartum doula care:** support at home, or in the hospital after a cesarean birth.
    Lactation support, holistic postpartum healing, and emotional support, day or overnight.
 3. **Womb wellness:** yoni steams, belly binding, and placenta encapsulation.
+4. **Birth doula support (Darlene personally, selective):** $2,200. See `brand/services-menu.md`.
 
 ## Our invitation (call to action)
 

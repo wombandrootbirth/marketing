@@ -16,7 +16,7 @@ I offer in-home postpartum care across South King and Pierce County, including o
 
 I'd love to learn more about you. When is your due date (or when was your baby born?), and what kind of support are you hoping for?
 
-The easiest next step is a free, no-pressure discovery call. You can choose a time that feels good here: wombandrootbirth.com/contact. Or simply reply here, and we'll find a time together.
+The easiest next step is a free, no-pressure discovery call. You can choose a time that feels good here: www.wombandrootbirth.com/contact. Or simply reply here, and we'll find a time together.
 
 With warmth,
 Darlene Johnson
@@ -41,7 +41,7 @@ Congratulations on your [first / second] baby! 💛 I'm Darlene, founder of Womb
 
 I accept Apple Health, and private pay is always welcome.
 
-I'd love to hear more about your hopes for this birth. The easiest next step is a free, no-pressure discovery call. You can pick a time here: wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+I'd love to hear more about your hopes for this birth. The easiest next step is a free, no-pressure discovery call. You can pick a time here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
 
 With warmth,
 Darlene Johnson
@@ -58,7 +58,7 @@ The weeks after birth are a sacred time to rest and heal. I offer in-home postpa
 
 I accept Apple Health, and private pay is always welcome.
 
-I'd love to hear what kind of support would help you feel most cared for. The easiest next step is a free, no-pressure discovery call. You can pick a time here: wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+I'd love to hear what kind of support would help you feel most cared for. The easiest next step is a free, no-pressure discovery call. You can pick a time here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
 
 With warmth,
 Darlene Johnson
@@ -93,7 +93,7 @@ Thank you for reaching out, and what a beautiful gift you're giving another fami
 
 Book 3 or more services together and receive 10% off. Many intended parents include doula care in the surrogacy agreement, so it may be worth asking your agency.
 
-I'd love to hear more about your hopes for this birth. You can book a free, no-pressure discovery call here: wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+I'd love to hear more about your hopes for this birth. You can book a free, no-pressure discovery call here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
 
 With warmth,
 Darlene Johnson
@@ -104,4 +104,4 @@ Womb & Root Birthing Services
 
 ## Gentle follow-up (3–4 days later, if no reply)
 
-Hi [Name], I just wanted to check in gently. I know this season is full! 🌿 If you'd still like to chat about postpartum support, I'd love to connect. You can book a free discovery call anytime at wombandrootbirth.com/contact. Wishing you a peaceful week. — Darlene
+Hi [Name], I just wanted to check in gently. I know this season is full! 🌿 If you'd still like to chat about postpartum support, I'd love to connect. You can book a free discovery call anytime at www.wombandrootbirth.com/contact. Wishing you a peaceful week. — Darlene

@@ -64,6 +64,7 @@ Mark spots for photos like this: *[Photo idea: ...]*.
 
 ## Honest-care rules
 
+- **Never create, change, or delete events in Darlene's calendars without her clear permission for that specific change.** Suggest the event, and wait for her yes.
 - Never give medical advice or promise health outcomes. Speak of practices as supportive and
   traditional, and invite readers to check with their provider, especially in pregnancy,
   postpartum, and perimenopause.

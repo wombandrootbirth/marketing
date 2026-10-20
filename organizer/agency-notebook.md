@@ -45,6 +45,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 **Client updates (Oct 7, 2026):** met a **new birth client**; welcomed a **new client due in December**;
 sent paperwork to current **postpartum clients**. (Client details live in Doulado, not here.)
+**Calendar:** never add, change, or delete calendar events without Darlene's permission. Ask first.
 **Client forms are electronic, in Doulado** (birth plans, intake, etc.). No Canva or printing for forms; Canva is for marketing pieces.
 **Oct 14:** Postpartum client delivered Oct 12 (cesarean); day support **Oct 19–30, Mon–Fri 9 AM–2 PM** (no visit Thu Oct 22, conference).
 Due dates: **Oct 25** and **Dec 10** (birth clients; the Dec 10 mama is the same client as the Oct 14 call, first noted as due Dec 12). All on the Doulado Google Calendar.

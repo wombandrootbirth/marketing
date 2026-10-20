@@ -69,6 +69,7 @@ using this shape:
 
 ## Honest-care rules
 
+- **Never create, change, or delete events in Darlene's calendars without her clear permission for that specific change.** Suggest the event, and wait for her yes.
 - Never invent names, phone numbers, emails, or addresses. If you find a real place through
   search, say where you found it. Otherwise describe the *type* of place and mark it
   **"(look up & verify)"**.
