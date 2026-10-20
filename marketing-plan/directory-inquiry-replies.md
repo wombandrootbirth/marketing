@@ -72,6 +72,37 @@ Womb & Root Birthing Services
 
 ---
 
+## Bornbir reply · Surrogate (birth + postpartum healing, with prices)
+
+*For a gestational surrogate. Her postpartum care focuses on her own healing (not newborn care).
+Fill in the birth support price before sending.*
+
+Hi [Name],
+
+Thank you for reaching out, and what a beautiful gift you're giving another family, for the second time! 💛 I'm Darlene, founder of Womb & Root Birthing Services, and I would be honored to support you.
+
+**At the birth,** I'll be there just for you: calm, steady comfort through labor, while honoring the intended mother's place in the room so everyone feels welcome and at ease.
+
+**After birth,** your body still needs rest and healing, even as baby goes home with their family. My postpartum healing support is focused completely on you:
+
+- **Golden Hours day support:** $70/hr (8-hour minimum, $560), for recovery support, light household help, and rest
+- **Steam & Settle:** from $405, day support plus a restorative postpartum yoni steam
+- **Nourished Days:** from $525, day support plus 4 hours of nourishing, freezer-ready meals
+- **Belly binding** and lactation support, whether you choose to pump or let your milk rest
+
+**Birth support:** [price]
+
+Book 3 or more services together and receive 10% off. Many intended parents include doula care in the surrogacy agreement, so it may be worth asking your agency.
+
+I'd love to hear more about your hopes for this birth. You can book a free, no-pressure discovery call here: wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+
+With warmth,
+Darlene Johnson
+Womb & Root Birthing Services
+(206) 409-9747
+
+---
+
 ## Gentle follow-up (3–4 days later, if no reply)
 
 Hi [Name], I just wanted to check in gently. I know this season is full! 🌿 If you'd still like to chat about postpartum support, I'd love to connect. You can book a free discovery call anytime at wombandrootbirth.com/contact. Wishing you a peaceful week. — Darlene
