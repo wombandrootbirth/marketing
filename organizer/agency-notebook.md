@@ -41,6 +41,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 - **Perinatal conference Thu, Oct 22, 9 AM–2 PM.**
 - **Traveling to Dallas Oct 8–12.** No work planned; home Oct 12.
 
+**🌱 Goal: launch the Womb & Root postpartum agency in January 2027.** Current plan: `organizer/2026-10-21-two-week-plan.md`
+
 ## Open spots (next 4–8 weeks)
 
 **Client updates (Oct 7, 2026):** met a **new birth client**; welcomed a **new client due in December**;
