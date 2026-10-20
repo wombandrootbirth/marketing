@@ -72,6 +72,15 @@ be used flexibly across multiple visits. **8 hours is the minimum purchase.**
 
 ---
 
+## Birth Support
+
+### Birth Doula Support
+- Calm, steady support through labor and birth
+- **$2,200**
+- [Darlene: what's included? For example, the number of prenatal visits, on-call dates, and postpartum follow-up visits.]
+
+---
+
 ## À La Carte Additions
 
 Add any of these to a package above, or book them on their own.

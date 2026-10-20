@@ -74,8 +74,7 @@ Womb & Root Birthing Services
 
 ## Bornbir reply · Surrogate (birth + postpartum healing, with prices)
 
-*For a gestational surrogate. Her postpartum care focuses on her own healing (not newborn care).
-Fill in the birth support price before sending.*
+*For a gestational surrogate. Her postpartum care focuses on her own healing (not newborn care).*
 
 Hi [Name],
 
@@ -90,7 +89,7 @@ Thank you for reaching out, and what a beautiful gift you're giving another fami
 - **Nourished Days:** from $525, day support plus 4 hours of nourishing, freezer-ready meals
 - **Belly binding** and lactation support, whether you choose to pump or let your milk rest
 
-**Birth support:** [price]
+**Birth support:** $2,200
 
 Book 3 or more services together and receive 10% off. Many intended parents include doula care in the surrogacy agreement, so it may be worth asking your agency.
 
