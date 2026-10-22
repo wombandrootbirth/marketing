@@ -1,6 +1,8 @@
 # Replies to Directory Inquiries — DoulaMatch & Bornbir
 
-*For families who reach out through doula directories. Reply within a few hours if possible, since
+*For families who reach out through doula directories. **Discovery calls are scheduled by reply**
+(not through the website's contact page). Point families to www.wombandrootbirth.com for packages,
+prices, and offerings. Reply within a few hours if possible, since
 families often message several doulas at once. Use her name and mention one detail from her message.
 Don't share prices here; save details for the discovery call.*
 
@@ -16,12 +18,15 @@ I offer in-home postpartum care across South King and Pierce County, including o
 
 I'd love to learn more about you. When is your due date (or when was your baby born?), and what kind of support are you hoping for?
 
-The easiest next step is a free, no-pressure discovery call. You can choose a time that feels good here: www.wombandrootbirth.com/contact. Or simply reply here, and we'll find a time together.
+You can explore my postpartum packages, prices, and offerings at www.wombandrootbirth.com.
+
+To schedule your free, no-pressure discovery call, simply reply to this message, and we'll find a time that feels good for you.
 
 With warmth,
 Darlene Johnson
 Womb & Root Birthing Services
 (206) 409-9747
+www.wombandrootbirth.com
 
 ---
 
@@ -41,12 +46,15 @@ Congratulations on your [first / second] baby! 💛 I'm Darlene, founder of Womb
 
 I accept Apple Health, private pay, Carrot, and payment plans.
 
-I'd love to hear more about your hopes for this birth. The easiest next step is a free, no-pressure discovery call. You can pick a time here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+You can explore my postpartum packages, prices, and offerings at www.wombandrootbirth.com.
+
+I'd love to hear more about your hopes for this birth. To schedule your free, no-pressure discovery call, simply reply to this message, and we'll find a time that feels good for you.
 
 With warmth,
 Darlene Johnson
 Womb & Root Birthing Services
 (206) 409-9747
+www.wombandrootbirth.com
 
 ### Postpartum only version (ready to send)
 
@@ -58,12 +66,15 @@ The weeks after birth are a sacred time to rest and heal. I offer in-home postpa
 
 I accept Apple Health, private pay, Carrot, and payment plans.
 
-I'd love to hear what kind of support would help you feel most cared for. The easiest next step is a free, no-pressure discovery call. You can pick a time here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+You can explore my postpartum packages, prices, and offerings at www.wombandrootbirth.com.
+
+I'd love to hear what kind of support would help you feel most cared for. To schedule your free, no-pressure discovery call, simply reply to this message, and we'll find a time that feels good for you.
 
 With warmth,
 Darlene Johnson
 Womb & Root Birthing Services
 (206) 409-9747
+www.wombandrootbirth.com
 
 **Personal touch (optional, one sentence):** add one detail from her note, for example:
 - *Hospital birth:* "I'd be happy to support you at the hospital and help you feel at home there."
@@ -93,15 +104,19 @@ Thank you for reaching out, and what a beautiful gift you're giving another fami
 
 Book 3 or more services together and receive 10% off. Many intended parents include doula care in the surrogacy agreement, so it may be worth asking your agency.
 
-I'd love to hear more about your hopes for this birth. You can book a free, no-pressure discovery call here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
+You can learn more about my postpartum offerings at www.wombandrootbirth.com.
+
+I'd love to hear more about your hopes for this birth. To schedule your free, no-pressure discovery call, simply reply to this message, and we'll find a time that feels good for you.
 
 With warmth,
 Darlene Johnson
 Womb & Root Birthing Services
 (206) 409-9747
+www.wombandrootbirth.com
 
 ---
 
 ## Gentle follow-up (3–4 days later, if no reply)
 
-Hi [Name], I just wanted to check in gently. I know this season is full! 🌿 If you'd still like to chat about postpartum support, I'd love to connect. You can book a free discovery call anytime at www.wombandrootbirth.com/contact. Wishing you a peaceful week. — Darlene
+Hi [Name], I just wanted to check in gently. I know this season is full! 🌿 If you'd still like to chat about postpartum support, I'd love to connect. Just reply to this message whenever you're ready, and we'll set up a free discovery call. Wishing you a peaceful week. — Darlene
+www.wombandrootbirth.com

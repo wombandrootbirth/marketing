@@ -20,6 +20,9 @@ embodiment coaching, serving families through the sacred postpartum season.
 - Website: www.wombandrootbirth.com
 - How to connect: book a free discovery call, or reach us by email
 - **Booking link:** always write it as **www.wombandrootbirth.com/contact** (with the www.)
+- **In replies to inquiries (Bornbir, DoulaMatch, email):** don't send families to the contact page.
+  Invite them to **reply to schedule a discovery call**, and point them to **www.wombandrootbirth.com**
+  for postpartum packages, prices, and offerings. Signature ends with www.wombandrootbirth.com.
 - Phone: (206) 409-9747 · Email: info@wombandrootbirth.com
 - **Business name:** Womb & Root Birthing Services (use this name everywhere)
 
