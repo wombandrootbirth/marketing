@@ -12,7 +12,7 @@ Hi [Name],
 
 Thank you so much for reaching out, and congratulations on your growing family! 💛 I'm Darlene, founder of Womb & Root Birthing Services, and I would be honored to support you.
 
-I offer in-home postpartum care across South King and Pierce County, including overnight support so you can actually rest, day support, lactation and feeding support, meal prep, and gentle care in the hospital after a cesarean birth. I also offer holistic healing like postpartum yoni steams, belly binding, and placenta encapsulation. I accept Apple Health, and private pay is always welcome.
+I offer in-home postpartum care across South King and Pierce County, including overnight support so you can actually rest, day support, lactation and feeding support, meal prep, and gentle care in the hospital after a cesarean birth. I also offer holistic healing like postpartum yoni steams, belly binding, and placenta encapsulation. I accept Apple Health, private pay, Carrot, and payment plans.
 
 I'd love to learn more about you. When is your due date (or when was your baby born?), and what kind of support are you hoping for?
 
@@ -39,7 +39,7 @@ Congratulations on your [first / second] baby! 💛 I'm Darlene, founder of Womb
 
 **[If she wants birth support only:]** I'd love to support you with calm, steady presence during labor and birth, helping you feel informed, supported, and at peace with your choices.
 
-I accept Apple Health, and private pay is always welcome.
+I accept Apple Health, private pay, Carrot, and payment plans.
 
 I'd love to hear more about your hopes for this birth. The easiest next step is a free, no-pressure discovery call. You can pick a time here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
 
@@ -56,7 +56,7 @@ Congratulations on your [first / second] baby! 💛 I'm Darlene, founder of Womb
 
 The weeks after birth are a sacred time to rest and heal. I offer in-home postpartum care, with overnight support so you can actually sleep, day support, feeding and lactation help, nourishing meal prep, and gentle healing like belly binding and postpartum yoni steams. I also offer in-hospital support after a cesarean birth.
 
-I accept Apple Health, and private pay is always welcome.
+I accept Apple Health, private pay, Carrot, and payment plans.
 
 I'd love to hear what kind of support would help you feel most cared for. The easiest next step is a free, no-pressure discovery call. You can pick a time here: www.wombandrootbirth.com/contact, or simply reply, and we'll find a time together.
 

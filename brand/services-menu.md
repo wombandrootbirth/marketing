@@ -108,6 +108,8 @@ Add any of these to a package above, or book them on their own.
 
 **Also offered:** lactation support, and in-hospital care after a cesarean birth.
 
+**Payment options:** Apple Health, private pay, Carrot, and payment plans.
+
 **Bundle & Save:** book 3 or more services together and receive 10% off the combined total.
 
 ---
