@@ -1,7 +1,8 @@
 # Build the November Newsletter in Kit
 
-*Step-by-step recipe. The words live in `newsletters/2026-11-newsletter.md`. The easiest way is to
-copy each box from `newsletters/2026-11-kit-paste.html`, in order.*
+*Step-by-step recipe. The words live in `newsletters/2026-11-newsletter.md`. Claude also shares
+each section in chat as plain text, one gray box per section, so you can tap "copy" and paste it
+into Kit.*
 
 ---
 

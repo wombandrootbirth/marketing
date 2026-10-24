@@ -1,8 +1,7 @@
 # November 2026 Newsletter — *The Season of Gathering*
 
 *First draft for Darlene's feedback. Build and send it in Kit. See
-`newsletters/2026-11-kit-build.md` for where each section goes, or copy from
-`newsletters/2026-11-kit-paste.html`.*
+`newsletters/2026-11-kit-build.md` for where each section goes.*
 
 ---
 
