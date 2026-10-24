@@ -30,7 +30,10 @@ Until the team grows, outreach should fit Darlene's own capacity.
   "Imported from Flodesk." (877 who had never opened were left out, to protect inbox placement.)
 - **Flodesk:** keep until the first Kit newsletter has gone out smoothly, then cancel. A segment
   called "Moving to Kit - Ever Opened" holds the exported group.
-- **Usual results:** 14–20% opens; very few clicks, so use one clear discovery call button
+- **Usual results (Flodesk):** 14–20% opens; very few clicks, so use one clear invitation
+- **October 2026 (first Kit issue, sent Wed Oct 7, 5 AM):** 2,329 recipients · **49.29% opens**
+  (1,148) · 6 clicks (0.26%) · 18 unsubscribes (0.77%). Opens more than doubled after the list
+  cleanup. Clicks stay low, so November invites **replies** ("worksheet") instead of relying on clicks.
 - **Best send days:** Monday or Wednesday morning (Pacific)
 - **Past clients group:** "Birth and Postpartum Clients" (include them in newsletters)
 
