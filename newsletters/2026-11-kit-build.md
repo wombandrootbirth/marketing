@@ -59,9 +59,7 @@ Send to **all subscribers**. If you've added new clients (tagged "Clients"), the
 
 ### ✅ Before you schedule
 
-- [ ] All sections pasted in, with no leftover [brackets]
-- [ ] Open spots filled in; TRICARE line updated or removed
-- [ ] Decided on the January doulas line and the worksheet gift
+- [ ] All sections pasted in
 - [ ] Button: "Explore postpartum care," linked to https://www.wombandrootbirth.com
 - [ ] Photos added
 - [ ] Test email checked on your phone

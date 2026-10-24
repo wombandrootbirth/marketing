@@ -55,8 +55,8 @@ Due dates: **Oct 25** and **Dec 10** (birth clients; the Dec 10 mama is the same
 
 *Update this weekly. It tells the Client Finder how hard to reach out, and which service to focus on.*
 
-- **Postpartum care (day or overnight): 3 families per month** in October and November 2026,
-  6 families in total (Darlene)
+- **Postpartum care (day or overnight): 3 families per month** in November and December 2026
+  (Darlene, confirmed Oct 24)
 - Birth support: [ ]
 - Womb wellness (steams, binding, encapsulation): [ ]
 - Coaching / Reiki / tuning fork sessions: [ ]

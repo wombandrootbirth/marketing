@@ -87,7 +87,7 @@ to this email with the word **"worksheet,"** and I'll send it to you. 💛
 
 **Honoring military families:** November is Military Family Appreciation Month. To the military
 mamas in our community: we see the extra weight you carry, often far from home.
-*[TRICARE update: approved, or still pending?]*
+*Our TRICARE application is in process, and I'll share the good news the moment we're approved.*
 
 If the season feels heavy, you're not alone. Postpartum Support International offers support at
 **1-800-944-4773** (call or text, English and Spanish). If you are in crisis, please call or
@@ -99,16 +99,13 @@ text **988**.
 
 ## 🌸 From our circle
 
-**News from Womb & Root.** After many years of pouring into this work alongside a full-time job,
+**News from Womb & Root.** After pouring my heart into this work alongside a full-time job,
 I am now devoted to Womb & Root full-time. 🌱 This means more availability for you, with day and
 overnight postpartum support across South King and Pierce County, and travel care for families
-farther away. I have space for **[number] families in November and December.**
+farther away. I have space for **three families each month in November and December.**
 
 **Easier ways to say yes.** We accept **Apple Health, private pay, Carrot, and payment plans**,
 so more families can receive the care they deserve.
-
-**Looking ahead:** our circle is growing. *[Optional, if ready: "In January, we're welcoming
-new doulas to the Womb & Root family."]*
 
 *[Photo idea: belly binding cloths, folded with dried flowers]*
 
@@ -150,13 +147,11 @@ Womb & Root Birthing Services
 5. Pregnancy & postpartum: a newborn's hand in a parent's hand, or cozy socks by a window
 6. From our circle: belly binding cloths with dried flowers
 
-### ✅ For Darlene: fill in or check before sending
+### ✅ For Darlene: check before sending
 
-- [ ] **Open spots:** how many families can you welcome in November and December?
-- [ ] **TRICARE:** approved, or still pending? (Update the military families line, or remove the bracket.)
-- [ ] **January doulas:** include the "welcoming new doulas" line, or leave it out for now?
-- [ ] **Worksheet gift:** are you comfortable emailing the Postpartum Planning Worksheet to anyone
-      who replies "worksheet"? (Claude can make a shareable version.) If not, remove that paragraph.
-- [ ] **"Many years":** is that the right way to describe your doula journey? Change it if not.
+- [x] Open spots: 3 families each month, November and December
+- [x] TRICARE: still pending (wording updated)
+- [x] No mention of new doulas yet
+- [x] Worksheet gift: yes, Darlene will email it to anyone who replies "worksheet"
 - [ ] Confirm the PSI helpline (1-800-944-4773) is still current. It was confirmed in October.
 - [ ] Choose photos from the list above
