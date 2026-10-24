@@ -50,7 +50,7 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 **Client updates (Oct 7, 2026):** met a **new birth client**; welcomed a **new client due in December**;
 sent paperwork to current **postpartum clients**. (Client details live in Doulado, not here.)
-**Newsletter format:** no HTML pages. Share newsletters in chat as plain text, one copy box per section.
+**Newsletter format:** no HTML pages and no chat copy boxes. Deliver each newsletter as a **Google Doc** in October's format, so Darlene copies from the Doc into Kit. November: https://docs.google.com/document/d/1T_y105rJ2fKY8I3Wiw31tbWhSBWql95YRmgEFH4Blko/edit
 **Calendar:** never add, change, or delete calendar events without Darlene's permission. Ask first.
 **Client forms are electronic, in Doulado** (birth plans, intake, etc.). No Canva or printing for forms; Canva is for marketing pieces.
 **Oct 14:** Postpartum client delivered Oct 12 (cesarean); day support **Oct 19–30, Mon–Fri 9 AM–2 PM** (no visit Thu Oct 22, conference).

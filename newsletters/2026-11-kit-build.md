@@ -1,8 +1,8 @@
 # Build the November Newsletter in Kit
 
-*Step-by-step recipe. The words live in `newsletters/2026-11-newsletter.md`. Claude also shares
-each section in chat as plain text, one gray box per section, so you can tap "copy" and paste it
-into Kit.*
+*Step-by-step recipe. Copy each section from the Google Doc
+[Womb & Root — November 2026 Newsletter](https://docs.google.com/document/d/1T_y105rJ2fKY8I3Wiw31tbWhSBWql95YRmgEFH4Blko/edit)
+into Kit, in order. (The same words are saved in `newsletters/2026-11-newsletter.md`.)*
 
 ---
 

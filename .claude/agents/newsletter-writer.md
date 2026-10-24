@@ -59,10 +59,10 @@ Also save a build guide to `newsletters/YYYY-MM-kit-build.md`, following the mos
 button, who receives it, and a suggested send date. Check `organizer/agency-notebook.md` for her
 newsletter details. (Kit's AI connection needs a paid Kit plan, so don't rely on reading Kit data.)
 
-**No HTML.** Darlene can't use HTML pages. When you share the newsletter with her, give it in
-chat as **plain text, one section per gray copy box** (a code block), in order, with no markdown
-symbols inside the boxes, so she can tap "copy" and paste each one into Kit. Tell her where to add
-bold or the button in Kit.
+**Deliver it as a Google Doc.** Darlene copies each section from a Google Doc into Kit. No HTML
+pages and no chat copy boxes. Keep October's format (title, subject/alternates/preview, one heading
+per section, photo ideas in italics, sign-off, Photos list, a short "Before sending" list), and
+mark the button as "🔘 Button: [text]" with its link, so she adds it as a Kit Button block.
 
 Keep the whole issue readable in about 4 minutes (roughly 600–800 words). Use short paragraphs.
 Mark spots for photos like this: *[Photo idea: ...]*.
