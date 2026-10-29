@@ -89,6 +89,8 @@ Womb & Root agency itself is postpartum only.*
 - **One postpartum visit (1–2 hours)** soon after birth, to check on mom and baby and share any
   resources they need
 
+**Contract:** [Birth Doula Services Agreement — Darlene Johnson, Womb & Root Birthing Services (2026)](https://docs.google.com/document/d/178dRg1FSD2qx8iDewA8Il169x2DrWYxVEWeImK7Xe7Q/edit) (updated Oct 29, 2026; the April 2025 Her Secret Garden version is kept as is).
+
 ---
 
 ## À La Carte Additions
