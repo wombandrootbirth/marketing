@@ -91,6 +91,8 @@ Womb & Root agency itself is postpartum only.*
 
 **Contract:** [Birth Doula Services Agreement — Darlene Johnson, Womb & Root Birthing Services (2026)](https://docs.google.com/document/d/178dRg1FSD2qx8iDewA8Il169x2DrWYxVEWeImK7Xe7Q/edit) (updated Oct 29, 2026; the April 2025 Her Secret Garden version is kept as is).
 
+**Apple Health (Medicaid) birth clients:** [Birth Doula Services Agreement — Apple Health](https://docs.google.com/document/d/1NY-SvTwoRRd2T7-brY1_7BIxaPfaqCfLcxxutlZUWnU/edit). No cost for covered services (prenatal intake, labor and birth, up to 20 hours of prenatal and postpartum visits). Optional add-ons only with a separate signed agreement and price before the service. Details to confirm with HCA: see the notebook.
+
 ---
 
 ## À La Carte Additions
