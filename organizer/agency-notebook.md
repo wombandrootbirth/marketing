@@ -18,9 +18,15 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 - **Washington Apple Health (state insurance):** accepted. Darlene is **listed in the Apple Health
   (WA Medicaid) doula directory**, so members can find her there. Public materials never say which packages it covers; Darlene explains coverage at the discovery call.
+  - **Apple Health birth contract** (Oct 29, 2026): written from the benefit summary saved in the networking
+    directory, because hca.wa.gov was blocked in Claude's session. **Confirm with HCA:** the exact
+    length of the intake visit; how long after birth postpartum visits can be used; whether a
+    provider recommendation is required; coverage after pregnancy loss; and the form HCA requires
+    before charging for a non-covered add-on.
 - **TRICARE West:** application submitted Sept 30, 2026. Follow up the week of Oct 8 if no word
   (reminder set). When approved, update
   `social-media/facebook-mom-groups-post.md` and share the news with military families.
+- **Payment options:** Apple Health, private pay, Carrot, and payment plans.
 - **Private pay:** see `brand/services-menu.md` (Day Support $70/hr, Overnight $75/hr, packages from $405)
 
 ## Newsletter (Kit)
