@@ -52,6 +52,8 @@ Until the team grows, outreach should fit Darlene's own capacity.
 
 **🌱 Goal: launch the Womb & Root postpartum agency in January 2027.** Roadmap: `organizer/2027-01-agency-launch-roadmap.md`
 
+**Client updates (Nov 9):** Tyara had her baby **Oct 31** 🎉 (Darlene reaching out Nov 10 about postpartum time this week). Shalon: possible visit Tue, Nov 10, waiting to hear back. Neither is on the calendar yet; add only when Darlene confirms.
+
 **November plan:** [Google Doc](https://docs.google.com/document/d/1CSc6UhIszlqkaCGXyKRjDWuqYlTZip0kePuDLtq1BG8/edit) · `organizer/2026-11-november-plan.md`. Goals: 20 partners, 12 videos, employment ad by Nov 20, on call for Makayla (EDD Nov 27) and Jarahzyanai (EDD Dec 10).
 
 **Oct 22–26:** Darlene had COVID (missed the PCPC conference). Shalon is sick too; her visits are paused until they talk.

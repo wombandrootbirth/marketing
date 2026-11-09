@@ -54,6 +54,7 @@
 - [ ] Draft **team pay rates** (Claude can help with the math)
 
 **Clients and admin**
+- [ ] Reach out to **Tyara** (baby born Oct 31 🎉) about postpartum time this week, and confirm a visit with **Shalon** (maybe Tue)
 - [ ] On call for Makayla begins **Fri, Nov 13**: birth bag packed, phone charged, back-up doula confirmed
 - [ ] Submit the mid-month Swedish invoice by **Sun, Nov 15**
 - [ ] Check **November newsletter** results in Kit and share with Claude
