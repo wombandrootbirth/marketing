@@ -58,8 +58,12 @@ You don't have to do this alone. 🌸
 
 🌿 Mamas-to-be in Pierce & South King County 🌿
 
-Hi, I'm Darlene, a birth and postpartum doula here in our community. I'd love to walk beside
-you from pregnancy, through your birth, and into those tender first weeks with your baby.
+Hi, I'm Darlene, a birth and postpartum doula here in our community. I also serve as a
+Community Health Worker with the Tacoma-Pierce County Health Department's Black Infant Health
+Program, so supporting mothers and babies in Pierce County is truly my heart's work.
+
+I'd love to walk beside you from pregnancy, through your birth, and into those tender first
+weeks with your baby.
 
 As your birth doula, I:
 

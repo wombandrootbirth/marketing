@@ -13,6 +13,8 @@ embodiment coaching, serving families through the sacred postpartum season.
 - Founder: Darlene Johnson, Postpartum Doula · Womb Wellness Practitioner · Feminine Energy
   Embodiment Coach · Licensed Esthetician
   (Don't mention years of experience as an esthetician unless Darlene asks for it.)
+- Also: **Community Health Worker, Tacoma-Pierce County Health Department, Black Infant Health
+  Program** (Darlene personally; mention in her own-voice posts and bios when it fits)
 - Bios: see `brand/bios.md`
 - Areas served: South King County and Pierce County, Washington
 - **Travel doula:** also available to travel to postpartum clients outside the area. On social
