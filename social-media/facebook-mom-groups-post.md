@@ -52,6 +52,37 @@ You don't have to do this alone. 🌸
 
 ---
 
+## Birth + postpartum post (Darlene personally)
+
+*Written in Darlene's own voice ("I"), since birth support is offered by her personally.*
+
+🌿 Mamas-to-be in Pierce & South King County 🌿
+
+Hi, I'm Darlene, a birth and postpartum doula here in our community. I'd love to walk beside
+you from pregnancy, through your birth, and into those tender first weeks with your baby.
+
+As your birth doula, I:
+
+✨ Meet with you during pregnancy to prepare for the birth you're hoping for
+✨ Come with you to a prenatal appointment, so your care team knows you have support
+✨ Stay by your side through labor and birth, with comfort, encouragement, and calm
+✨ Visit after your baby arrives to make sure you and baby are doing well
+
+And when you're home, I can keep caring for you with postpartum support: rest, feeding help,
+nourishing meals, and gentle healing like belly binding. 💛
+
+Whether you're planning a hospital birth, a birth center birth, or a home birth, you deserve
+to feel supported, informed, and cared for.
+
+💛 Apple Health, private pay, Carrot, and payment plans accepted.
+🌸 Due this winter or spring? I'd love to hear from you.
+
+Send me a message or comment below to set up a free, no-pressure discovery call.
+
+— Darlene Johnson | Birth & Postpartum Doula | www.wombandrootbirth.com
+
+---
+
 ## Ready replies
 
 **"Do you take my insurance?"**
