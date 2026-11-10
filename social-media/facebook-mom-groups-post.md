@@ -6,7 +6,7 @@
 
 ## Main post
 
-🌿 Hello, mamas of South King & Pierce County 🌿
+🌿 Hello, mamas of Pierce & South King County 🌿
 
 My name is Darlene, and I'm the founder of Womb & Root Birthing Services. I wanted to share a
 little about postpartum support, because so many mothers don't know it exists until they're
@@ -17,34 +17,37 @@ A postpartum doula is there to care for *you* after your baby arrives. That can 
 ✨ Day or overnight support, so you can rest and heal
 ✨ Lactation and feeding support
 ✨ Warm, nourishing meal prep
+✨ Holistic healing like belly binding and postpartum yoni steams
 ✨ Gentle care at home, or in the hospital after a cesarean birth
 ✨ A calm, caring presence for your heart in those tender first weeks
 
-💛 **We accept Washington Apple Health (state insurance).**
+💛 **We accept Apple Health (Washington state insurance), private pay, Carrot, and payment plans.**
 💛 **Military families:** our TRICARE application is pending. Send me a message and I'll let
 you know as soon as we're approved.
+🌸 **I have space for 3 families in December.**
 
-If you're expecting or newly postpartum and longing for support, I'd love to connect. A free
-discovery call is a relaxed, no-pressure chat to share what you need. Book yours at
-**www.wombandrootbirth.com/contact**, or comment below or send me a message, and I'll reach out. 🌸
+If you're expecting or newly postpartum and longing for support, I'd love to connect. Comment
+below or send me a message to set up a free, no-pressure discovery call. You can explore our
+postpartum packages at **www.wombandrootbirth.com**.
 
 You were never meant to do this alone.
 
-— Darlene | Womb & Root Birthing Services | wombandrootbirth.com
+— Darlene | Womb & Root Birthing Services | www.wombandrootbirth.com
 
 ---
 
 ## Shorter version (for groups that prefer brief posts)
 
-🌿 South King & Pierce County mamas: postpartum support is here for you.
+🌿 Pierce & South King County mamas: postpartum support is here for you.
 
-Womb & Root offers day and overnight postpartum care, lactation support, meal prep,
-and gentle healing support at home or in the hospital after a cesarean birth.
+Womb & Root offers day and overnight postpartum care, feeding support, meal prep, belly
+binding, and gentle healing at home or in the hospital after a cesarean birth.
 
-💛 We accept Washington Apple Health (state insurance).
-💛 Our TRICARE application is pending. Military families, message me for updates!
+💛 Apple Health, private pay, Carrot, and payment plans accepted.
+💛 TRICARE pending. Military families, message me for updates!
+🌸 Space for 3 families in December.
 
-Free, no-pressure discovery call: **www.wombandrootbirth.com/contact**, or just comment or send a message.
+Comment or send me a message for a free, no-pressure discovery call, or visit **www.wombandrootbirth.com**.
 You don't have to do this alone. 🌸
 
 ---
