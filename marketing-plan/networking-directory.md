@@ -212,6 +212,17 @@ Snohomish counties
   being included, or about referring families when either of you is full.
 - Source: [openarmsps.org](https://openarmsps.org/resources/community-doula-agencies/)
 
+**Tacoma Urban League** (health program): works to improve maternal and child health outcomes for African American families in Tacoma-Pierce County
+- Source: [tacomaurbanleague.squarespace.com/health](https://tacomaurbanleague.squarespace.com/health)
+
+**Multicultural Child and Family Hope Center** (S. 19th St, Tacoma): free support group for moms and pregnant women, plus housing help and financial education
+- Source: [WA 211 listing](https://search.wa211.org/search/ec8fe8eb-3829-5b0f-9e6a-55926613a339)
+
+**Catholic Community Services, Tahoma Family Center / PREPARES**: pregnancy and parenting support for families with young children
+- Source: [ccsww.org Pierce County](https://ccsww.org/our-services/pierce-county/)
+
+**Also worth knowing:** Amara Family Resource Center (Tacoma) · Pregnancy Aid of Tacoma · Family Connects Baby Lounges
+
 **Hummingbird Indigenous Family Services**: Indigenous birth and postpartum doula program
 - Source: [openarmsps.org list](https://openarmsps.org/resources/community-doula-agencies/)
 
