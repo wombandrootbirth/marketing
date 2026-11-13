@@ -29,9 +29,9 @@ Would you be open to my leaving a few brochures for your parent board, or sharin
 
 Hi [Name],
 
-I'm Darlene Johnson, founder of Womb & Root Birthing Services, a postpartum doula practice serving Pierce and South King County. I so admire [Organization]'s work with [families / mothers / military families].
+I'm Darlene Johnson, a birth and postpartum doula and the founder of Womb & Root Birthing Services, serving Pierce and South King County. I so admire [Organization]'s work with [families / mothers / military families].
 
-I offer in-home postpartum care: day and overnight support, feeding help, meal prep, and holistic healing. We accept Apple Health, so care can reach families who need it most.
+I offer birth support and in-home postpartum care: day and overnight support, feeding help, meal prep, and holistic healing. We accept Medicaid and Apple Health plans, so care can reach families who need it most.
 
 I'd love to learn how I can support your families, and to be added to any resource lists you share. Would you have 15 minutes for a call or coffee in the coming weeks?
 

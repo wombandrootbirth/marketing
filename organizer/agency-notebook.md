@@ -143,6 +143,9 @@ Due dates: **Oct 25** and **Dec 10** (birth clients; the Dec 10 mama is the same
 | Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up Oct 14 if no reply |
 | River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up Oct 13 if no reply; bring brochures when visiting Suite 120 (afternoons) |
 | The Starter Set (thestarterset.com) | Baby registry business | Nov 9, 2026, by phone with Jane (owner) | Jane is interested in bringing Darlene in as a **registry consultant**. Follow-up email sent Nov 13. Follow up again around Nov 20 if no reply |
+| Tacoma Urban League (health program) | Nonprofit, maternal and child health | Nov 13, 2026, by email | Nonprofit outreach email (birth + postpartum, Medicaid/Apple Health). Follow up around Nov 20 |
+| Multicultural Child and Family Hope Center | Nonprofit, moms' support group | Nov 13, 2026, by email | Same email. Follow up around Nov 20 |
+| Catholic Community Services (Tahoma Family Center / PREPARES) | Nonprofit, pregnancy and parenting support | Nov 13, 2026, by email | Same email. Follow up around Nov 20 |
 
 ---
 
