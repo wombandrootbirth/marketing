@@ -142,6 +142,7 @@ Due dates: **Oct 25** and **Dec 10** (birth clients; the Dec 10 mama is the same
 | Family Connects Pierce County ((253) 290-0904) | Newborn nurse home visits | Oct 2, 2026, voicemail left | Call back Oct 13 if no reply (script: `marketing-plan/call-scripts/family-connects.md`) |
 | Wellspring Midwifery (hello@wellspringmidwifery.com) | Home birth midwifery practice | Oct 2, 2026, by email | Follow up Oct 14 if no reply |
 | River Lactation (hello@riverlactation.com) | Lactation consultant (IBCLC) | Sept 30, 2026, by email | Follow up Oct 13 if no reply; bring brochures when visiting Suite 120 (afternoons) |
+| The Starter Set (thestarterset.com) | Baby registry business | Nov 9, 2026, by phone with Jane (owner) | Jane is interested in bringing Darlene in as a **registry consultant**. Follow-up email sent Nov 13. Follow up again around Nov 20 if no reply |
 
 ---
 
