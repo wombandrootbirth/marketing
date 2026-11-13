@@ -19,7 +19,7 @@
 - **Tue, Nov 10:** Cascade Eye 8 AM · Makayla's doctor appointment with you, 3:30 PM, Puyallup
 - **Wed, Nov 11:** Veterans Day (a gentle day to honor military families)
 - **Thu, Nov 12:** Monthly Program Updates (Teams), 12 PM
-- **Fri, Nov 13:** Coffee meet and greet with Apidi O., 11 AM
+- **Coffee with Apidi O.:** being rescheduled (was Fri, Nov 13). Darlene will add the new date to her calendar.
 - **Sun, Nov 15:** Swedish program invoice due (mid-month)
 - **Tue, Nov 17:** Cascade Eye, 1 PM
 - **Wed, Nov 18:** PCPC Crib Partner Training, 2–4 PM (a wonderful networking room)
@@ -42,7 +42,7 @@
 **Networking**
 - [ ] Email 5 partners: **PhysioStrength Pelvic Health**, **Anchor Physical Therapy**, **Wellspring Midwifery** (follow-up), **Natural Beginnings Midwifery Care**, **Source Yoga**
 - [ ] Ask Makayla's provider office on Tue if you may leave a few brochures. (Independent offices only. Skip large hospital systems.)
-- [ ] Coffee with **Apidi** on Fri: bring brochures and ask who else she thinks you should meet
+- [ ] Coffee with **Apidi** (rescheduling; date to come): bring brochures and ask who else she thinks you should meet
 
 **Social media**
 - [ ] Set up: profile photo, the TikTok bio, a "Book a call" link, and a pinned intro video
