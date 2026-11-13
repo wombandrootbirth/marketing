@@ -25,7 +25,7 @@ Would you be open to my leaving a few brochures for your parent board, or sharin
 
 ## 2. Nonprofits and community programs
 
-**Subject:** Postpartum support for the families you serve
+**Subject:** Birth and postpartum support for the families you serve
 
 Hi [Name],
 
